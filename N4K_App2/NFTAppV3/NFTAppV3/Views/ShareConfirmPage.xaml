@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.ShareConfirmPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="auto" ColumnDefinitions="2" BackgroundColor="White">
+            <!--<Label Text="Share My Kiss"               
+                   HorizontalOptions="Center"
+                   FontSize="40"
+                   TextColor="White"
+                   Grid.Row="1" Grid.ColumnSpan="3"/>-->
+            <ImageButton Source="marketplace.png"
+                         Grid.Row="1"
+                         Grid.Column="1"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+
+            <ImageButton Source="ShareOutlookEmail.png"
+                         Grid.Row="1"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+
+            <ImageButton Source="ShareFacebookFeed.png"
+                         Grid.Row="2"
+                         Grid.Column="1"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+
+            <ImageButton Source="ShareFacebookMessenger.png"
+                         Grid.Row="2"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+
+            <ImageButton Source="ShareTwitterFeed.png"
+                         Grid.Row="3"
+                         Grid.Column="1"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+
+            <ImageButton Source="ShareSMSText.png"
+                         Grid.Row="3"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

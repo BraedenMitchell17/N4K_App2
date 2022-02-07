@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.ShareKissPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="auto" ColumnDefinitions="auto" BackgroundColor="White">
+            
+            <Label Text="Permission to Share"
+                   FontSize="20"
+                   TextColor="Black"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"
+                   Grid.Row="1"
+                   Grid.ColumnSpan="3"/>
+
+
+            <TableView Intent="Data" Grid.Row="2" Grid.RowSpan="6" Grid.ColumnSpan="3">
+                <TableRoot>
+                    <TableSection Title="Data metrics" TextColor="Black">
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+
+                                <Label x:Name="KissType"
+                                HorizontalOptions="Start"
+                                FontSize="20"
+                                TextColor="Black"
+                                Grid.ColumnSpan="2"/>
+
+                            </StackLayout>
+                        </ViewCell>
+
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <Label x:Name="lblDuration"
+                                Text="Duration: 150ms"
+                                HorizontalOptions="Start"
+                                FontSize="20"
+                                TextColor="Black"
+                                Grid.ColumnSpan="2"/>
+                            </StackLayout>
+                        </ViewCell>
+
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="Coverage: N/A"
+                                HorizontalOptions="Start"
+                                FontSize="20"
+                                TextColor="Black"
+                                Grid.ColumnSpan="2"/>
+                            </StackLayout>
+                        </ViewCell>
+
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="Pressure: N/A"
+                                HorizontalOptions="Start"
+                                FontSize="20"
+                                TextColor="Black"
+                                Grid.ColumnSpan="2"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+
+            <ImageButton Source="ArrowNext.png"
+                         Grid.Row="6"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClickedConfirm"/>
+
+            <ImageButton Source="ArrowBack.png"
+                         Grid.Row="6"
+                         Grid.Column="1"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClickedBack"/>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

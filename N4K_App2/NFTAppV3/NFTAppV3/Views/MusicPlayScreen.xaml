@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.MusicPlayScreen">
+    <ContentPage.Content>
+        <Grid RowDefinitions="6" ColumnDefinitions="2">
+            <Label Text="Here's a penny for your thoughts, a nickel for a kiss..."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   Grid.Row="1"
+                   Grid.ColumnSpan="3"/>
+
+            <Label Text="Performed by: Billy Eckstine."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   Grid.Row="2"
+                   Grid.ColumnSpan="3"/>
+
+            <Label Text="Lyrics: Vernon Duke and E.Y Harburg."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   Grid.Row="3"
+                   Grid.ColumnSpan="3"/>
+            
+            
+            <ProgressBar x:Name="prgSong" ProgressColor="Green" Progress="0" WidthRequest="10" HeightRequest="60"
+                         Grid.Row="4" Grid.ColumnSpan="3"/>
+
+            <ImageButton x:Name="btnHomePage"
+                         Source="ArrowNext.png"
+                         Grid.Row="6"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClickedHomePage"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

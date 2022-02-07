@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.NotImplementedYetScreen">
+    <ContentPage.Content>
+        <Grid RowDefinitions="6" ColumnDefinitions="2">
+            <Image Source="NotImplementedYet.png"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="CenterAndExpand"
+                   Grid.Row="1"
+                   Grid.RowSpan="5"
+                   Grid.ColumnSpan="3"></Image>
+
+            <ImageButton Source="ArrowBack.png"
+                         Grid.Column="1"
+                         Grid.Row="6"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

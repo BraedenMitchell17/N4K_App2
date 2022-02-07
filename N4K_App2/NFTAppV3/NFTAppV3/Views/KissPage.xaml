@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.KissPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="6" ColumnDefinitions="2" BackgroundColor="White">
+            <Label Text="Kiss"               
+                   HorizontalOptions="Center"
+                   FontSize="40"
+                   TextColor="Black"/>
+
+            <Button x:Name="KissTest"
+                    Text="Kiss Here"
+                    FontSize="Large"
+                    TextColor="Black"
+                    HorizontalOptions="Center"
+                    WidthRequest="350"
+                    HeightRequest="270"
+                    Margin="15"
+                    Pressed="KissTest_Pressed"
+                    Released="KissTest_Released"
+                    Grid.ColumnSpan="3"
+                    Grid.RowSpan="4"></Button>
+
+            <!--These will not be visible until after the kiss-->
+            <!--<Label x:Name="KissType"
+                   HorizontalOptions="Start"
+                   
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Label x:Name="lblDuration"
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Label 
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="Black"/>
+
+            <Label 
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="Black"/>-->
+
+            <ImageButton Source="ArrowNext.png"
+                         Grid.Row="6"
+                         Grid.Column="2"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnNextPageButtonClickedShare1"/>
+
+            <ImageButton Source="ArrowBack.png"
+                         Grid.Row="6"
+                         Grid.Column="1"
+                         Aspect="Fill"
+                         Margin="20"
+                         Clicked="OnBackButtonPressed"/>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

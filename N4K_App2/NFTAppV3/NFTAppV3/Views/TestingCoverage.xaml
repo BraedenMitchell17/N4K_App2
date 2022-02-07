@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NFTAppV3.Views.TestingCoverage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Black">
+            <Label Text="Test"               
+                   HorizontalOptions="Center"
+                   FontSize="40"
+                   TextColor="White"/>
+
+            <Button x:Name="KissTest"
+                    HorizontalOptions="Center"
+                    WidthRequest="350"
+                    HeightRequest="270"
+                    Pressed="KissTest_Pressed"
+                    Released="KissTest_Released"></Button>
+            <!--Clicked="KissTest_Clicked"-->
+
+            <!--These will not be visible until after the kiss-->
+            <Label x:Name="KissType"
+                   HorizontalOptions="Start"
+                   Text="Type: "
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Label x:Name="lblDuration"
+                   Text="Duration: 0"
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Label Text="Coverage: "
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Label Text="Pressure: N/A"
+                   HorizontalOptions="Start"
+                   FontSize="20"
+                   TextColor="White"/>
+
+            <Button x:Name="btnSharetheKiss"
+                    Text="Share"
+                    FontSize="Large"
+                    TextColor="Black"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
