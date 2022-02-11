@@ -14,10 +14,11 @@
                     WidthRequest="350"
                     HeightRequest="270"
                     Pressed="KissTest_Pressed"
-                    Released="KissTest_Released"></Button>
-            <!--Clicked="KissTest_Clicked"-->
+                    Released="KissTest_Released" ></Button>
 
-            <!--These will not be visible until after the kiss-->
+
+
+            <!--These will not be visible until after the kiss
             <Label x:Name="KissType"
                    HorizontalOptions="Start"
                    Text="Type: "
@@ -45,7 +46,7 @@
                     FontSize="Large"
                     TextColor="Black"
                     HorizontalOptions="Center"
-                    VerticalOptions="End"></Button>
+                    VerticalOptions="End"></Button>-->
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

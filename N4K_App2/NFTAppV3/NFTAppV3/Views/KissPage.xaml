@@ -21,6 +21,8 @@
                     Released="KissTest_Released"
                     Grid.ColumnSpan="3"
                     Grid.RowSpan="4"></Button>
+            
+            
 
             <!--These will not be visible until after the kiss-->
             <!--<Label x:Name="KissType"
