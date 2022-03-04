@@ -27,6 +27,11 @@ namespace NFTAppV3.Views
             //await Navigation.PushAsync(new KissPage("Forehead"));
             //Testing this
             await Navigation.PushAsync(new TestingCoverage("Forehead"));
+            
+            //GestureRecognizer gr = new GestureRecognizer();
+            
+            //await Navigation.PushAsync(gr);
+
         }
 
         async void OnNextPageButtonClickedShare(object sender, EventArgs e)

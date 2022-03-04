@@ -14,7 +14,7 @@ namespace NFTAppV3.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.1.0.11")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.0.155")]
 	public partial class Resource
 	{
 		
@@ -25,2488 +25,6 @@ namespace NFTAppV3.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_fade_in = global::NFTAppV3.Droid.Resource.Animation.abc_fade_in;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_fade_out = global::NFTAppV3.Droid.Resource.Animation.abc_fade_out;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_grow_fade_in_from_bottom = global::NFTAppV3.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_popup_enter = global::NFTAppV3.Droid.Resource.Animation.abc_popup_enter;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_popup_exit = global::NFTAppV3.Droid.Resource.Animation.abc_popup_exit;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_shrink_fade_out_from_bottom = global::NFTAppV3.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_in_bottom = global::NFTAppV3.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_in_top = global::NFTAppV3.Droid.Resource.Animation.abc_slide_in_top;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_out_bottom = global::NFTAppV3.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_out_top = global::NFTAppV3.Droid.Resource.Animation.abc_slide_out_top;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_tooltip_enter = global::NFTAppV3.Droid.Resource.Animation.abc_tooltip_enter;
-			global::SkiaSharp.Views.Forms.Resource.Animation.abc_tooltip_exit = global::NFTAppV3.Droid.Resource.Animation.abc_tooltip_exit;
-			global::SkiaSharp.Views.Forms.Resource.Animation.design_bottom_sheet_slide_in = global::NFTAppV3.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::SkiaSharp.Views.Forms.Resource.Animation.design_bottom_sheet_slide_out = global::NFTAppV3.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::SkiaSharp.Views.Forms.Resource.Animation.design_snackbar_in = global::NFTAppV3.Droid.Resource.Animation.design_snackbar_in;
-			global::SkiaSharp.Views.Forms.Resource.Animation.design_snackbar_out = global::NFTAppV3.Droid.Resource.Animation.design_snackbar_out;
-			global::SkiaSharp.Views.Forms.Resource.Animation.EnterFromLeft = global::NFTAppV3.Droid.Resource.Animation.EnterFromLeft;
-			global::SkiaSharp.Views.Forms.Resource.Animation.EnterFromRight = global::NFTAppV3.Droid.Resource.Animation.EnterFromRight;
-			global::SkiaSharp.Views.Forms.Resource.Animation.ExitToLeft = global::NFTAppV3.Droid.Resource.Animation.ExitToLeft;
-			global::SkiaSharp.Views.Forms.Resource.Animation.ExitToRight = global::NFTAppV3.Droid.Resource.Animation.ExitToRight;
-			global::SkiaSharp.Views.Forms.Resource.Animator.design_appbar_state_list_animator = global::NFTAppV3.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::SkiaSharp.Views.Forms.Resource.Animator.design_fab_hide_motion_spec = global::NFTAppV3.Droid.Resource.Animator.design_fab_hide_motion_spec;
-			global::SkiaSharp.Views.Forms.Resource.Animator.design_fab_show_motion_spec = global::NFTAppV3.Droid.Resource.Animator.design_fab_show_motion_spec;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_btn_state_list_anim = global::NFTAppV3.Droid.Resource.Animator.mtrl_btn_state_list_anim;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::NFTAppV3.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_chip_state_list_anim = global::NFTAppV3.Droid.Resource.Animator.mtrl_chip_state_list_anim;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_hide_motion_spec = global::NFTAppV3.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_show_motion_spec = global::NFTAppV3.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::NFTAppV3.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
-			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::NFTAppV3.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarDivider = global::NFTAppV3.Droid.Resource.Attribute.actionBarDivider;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarItemBackground = global::NFTAppV3.Droid.Resource.Attribute.actionBarItemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarPopupTheme = global::NFTAppV3.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarSize = global::NFTAppV3.Droid.Resource.Attribute.actionBarSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarSplitStyle = global::NFTAppV3.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarStyle = global::NFTAppV3.Droid.Resource.Attribute.actionBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabBarStyle = global::NFTAppV3.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabStyle = global::NFTAppV3.Droid.Resource.Attribute.actionBarTabStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabTextStyle = global::NFTAppV3.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTheme = global::NFTAppV3.Droid.Resource.Attribute.actionBarTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarWidgetTheme = global::NFTAppV3.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.actionButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionDropDownStyle = global::NFTAppV3.Droid.Resource.Attribute.actionDropDownStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionLayout = global::NFTAppV3.Droid.Resource.Attribute.actionLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionMenuTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionMenuTextColor = global::NFTAppV3.Droid.Resource.Attribute.actionMenuTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeBackground = global::NFTAppV3.Droid.Resource.Attribute.actionModeBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCloseButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCloseDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCopyDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCutDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeFindDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModePasteDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModePopupWindowStyle = global::NFTAppV3.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeSelectAllDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeShareDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeSplitBackground = global::NFTAppV3.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeStyle = global::NFTAppV3.Droid.Resource.Attribute.actionModeStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeWebSearchDrawable = global::NFTAppV3.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionOverflowButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionOverflowMenuStyle = global::NFTAppV3.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionProviderClass = global::NFTAppV3.Droid.Resource.Attribute.actionProviderClass;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.actionViewClass = global::NFTAppV3.Droid.Resource.Attribute.actionViewClass;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.activityChooserViewStyle = global::NFTAppV3.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogButtonGroupStyle = global::NFTAppV3.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogCenterButtons = global::NFTAppV3.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogStyle = global::NFTAppV3.Droid.Resource.Attribute.alertDialogStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogTheme = global::NFTAppV3.Droid.Resource.Attribute.alertDialogTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.allowStacking = global::NFTAppV3.Droid.Resource.Attribute.allowStacking;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alpha = global::NFTAppV3.Droid.Resource.Attribute.alpha;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.alphabeticModifiers = global::NFTAppV3.Droid.Resource.Attribute.alphabeticModifiers;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.arrowHeadLength = global::NFTAppV3.Droid.Resource.Attribute.arrowHeadLength;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.arrowShaftLength = global::NFTAppV3.Droid.Resource.Attribute.arrowShaftLength;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoCompleteTextViewStyle = global::NFTAppV3.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeMaxTextSize = global::NFTAppV3.Droid.Resource.Attribute.autoSizeMaxTextSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeMinTextSize = global::NFTAppV3.Droid.Resource.Attribute.autoSizeMinTextSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizePresetSizes = global::NFTAppV3.Droid.Resource.Attribute.autoSizePresetSizes;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeStepGranularity = global::NFTAppV3.Droid.Resource.Attribute.autoSizeStepGranularity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeTextType = global::NFTAppV3.Droid.Resource.Attribute.autoSizeTextType;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.background = global::NFTAppV3.Droid.Resource.Attribute.background;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundSplit = global::NFTAppV3.Droid.Resource.Attribute.backgroundSplit;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundStacked = global::NFTAppV3.Droid.Resource.Attribute.backgroundStacked;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundTint = global::NFTAppV3.Droid.Resource.Attribute.backgroundTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundTintMode = global::NFTAppV3.Droid.Resource.Attribute.backgroundTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.barLength = global::NFTAppV3.Droid.Resource.Attribute.barLength;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_autoHide = global::NFTAppV3.Droid.Resource.Attribute.behavior_autoHide;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_fitToContents = global::NFTAppV3.Droid.Resource.Attribute.behavior_fitToContents;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_hideable = global::NFTAppV3.Droid.Resource.Attribute.behavior_hideable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_overlapTop = global::NFTAppV3.Droid.Resource.Attribute.behavior_overlapTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_peekHeight = global::NFTAppV3.Droid.Resource.Attribute.behavior_peekHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_skipCollapsed = global::NFTAppV3.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.borderlessButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.borderWidth = global::NFTAppV3.Droid.Resource.Attribute.borderWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomAppBarStyle = global::NFTAppV3.Droid.Resource.Attribute.bottomAppBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomNavigationStyle = global::NFTAppV3.Droid.Resource.Attribute.bottomNavigationStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomSheetDialogTheme = global::NFTAppV3.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomSheetStyle = global::NFTAppV3.Droid.Resource.Attribute.bottomSheetStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxBackgroundColor = global::NFTAppV3.Droid.Resource.Attribute.boxBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxBackgroundMode = global::NFTAppV3.Droid.Resource.Attribute.boxBackgroundMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCollapsedPaddingTop = global::NFTAppV3.Droid.Resource.Attribute.boxCollapsedPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusBottomEnd = global::NFTAppV3.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusBottomStart = global::NFTAppV3.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusTopEnd = global::NFTAppV3.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusTopStart = global::NFTAppV3.Droid.Resource.Attribute.boxCornerRadiusTopStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxStrokeColor = global::NFTAppV3.Droid.Resource.Attribute.boxStrokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.boxStrokeWidth = global::NFTAppV3.Droid.Resource.Attribute.boxStrokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarNegativeButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarNeutralButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarPositiveButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonGravity = global::NFTAppV3.Droid.Resource.Attribute.buttonGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonIconDimen = global::NFTAppV3.Droid.Resource.Attribute.buttonIconDimen;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonPanelSideLayout = global::NFTAppV3.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonStyle = global::NFTAppV3.Droid.Resource.Attribute.buttonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonStyleSmall = global::NFTAppV3.Droid.Resource.Attribute.buttonStyleSmall;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonTint = global::NFTAppV3.Droid.Resource.Attribute.buttonTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonTintMode = global::NFTAppV3.Droid.Resource.Attribute.buttonTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardBackgroundColor = global::NFTAppV3.Droid.Resource.Attribute.cardBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardCornerRadius = global::NFTAppV3.Droid.Resource.Attribute.cardCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardElevation = global::NFTAppV3.Droid.Resource.Attribute.cardElevation;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardMaxElevation = global::NFTAppV3.Droid.Resource.Attribute.cardMaxElevation;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardPreventCornerOverlap = global::NFTAppV3.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardUseCompatPadding = global::NFTAppV3.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cardViewStyle = global::NFTAppV3.Droid.Resource.Attribute.cardViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkboxStyle = global::NFTAppV3.Droid.Resource.Attribute.checkboxStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedChip = global::NFTAppV3.Droid.Resource.Attribute.checkedChip;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIcon = global::NFTAppV3.Droid.Resource.Attribute.checkedIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIconEnabled = global::NFTAppV3.Droid.Resource.Attribute.checkedIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIconVisible = global::NFTAppV3.Droid.Resource.Attribute.checkedIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedTextViewStyle = global::NFTAppV3.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipBackgroundColor = global::NFTAppV3.Droid.Resource.Attribute.chipBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipCornerRadius = global::NFTAppV3.Droid.Resource.Attribute.chipCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipEndPadding = global::NFTAppV3.Droid.Resource.Attribute.chipEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipGroupStyle = global::NFTAppV3.Droid.Resource.Attribute.chipGroupStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIcon = global::NFTAppV3.Droid.Resource.Attribute.chipIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconEnabled = global::NFTAppV3.Droid.Resource.Attribute.chipIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconSize = global::NFTAppV3.Droid.Resource.Attribute.chipIconSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconTint = global::NFTAppV3.Droid.Resource.Attribute.chipIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconVisible = global::NFTAppV3.Droid.Resource.Attribute.chipIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipMinHeight = global::NFTAppV3.Droid.Resource.Attribute.chipMinHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacing = global::NFTAppV3.Droid.Resource.Attribute.chipSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacingHorizontal = global::NFTAppV3.Droid.Resource.Attribute.chipSpacingHorizontal;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacingVertical = global::NFTAppV3.Droid.Resource.Attribute.chipSpacingVertical;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStandaloneStyle = global::NFTAppV3.Droid.Resource.Attribute.chipStandaloneStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStartPadding = global::NFTAppV3.Droid.Resource.Attribute.chipStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStrokeColor = global::NFTAppV3.Droid.Resource.Attribute.chipStrokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStrokeWidth = global::NFTAppV3.Droid.Resource.Attribute.chipStrokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStyle = global::NFTAppV3.Droid.Resource.Attribute.chipStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIcon = global::NFTAppV3.Droid.Resource.Attribute.closeIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconEnabled = global::NFTAppV3.Droid.Resource.Attribute.closeIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconEndPadding = global::NFTAppV3.Droid.Resource.Attribute.closeIconEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconSize = global::NFTAppV3.Droid.Resource.Attribute.closeIconSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconStartPadding = global::NFTAppV3.Droid.Resource.Attribute.closeIconStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconTint = global::NFTAppV3.Droid.Resource.Attribute.closeIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconVisible = global::NFTAppV3.Droid.Resource.Attribute.closeIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.closeItemLayout = global::NFTAppV3.Droid.Resource.Attribute.closeItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.collapseContentDescription = global::NFTAppV3.Droid.Resource.Attribute.collapseContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.collapsedTitleGravity = global::NFTAppV3.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.collapsedTitleTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.collapseIcon = global::NFTAppV3.Droid.Resource.Attribute.collapseIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.color = global::NFTAppV3.Droid.Resource.Attribute.color;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorAccent = global::NFTAppV3.Droid.Resource.Attribute.colorAccent;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorBackgroundFloating = global::NFTAppV3.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorButtonNormal = global::NFTAppV3.Droid.Resource.Attribute.colorButtonNormal;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlActivated = global::NFTAppV3.Droid.Resource.Attribute.colorControlActivated;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlHighlight = global::NFTAppV3.Droid.Resource.Attribute.colorControlHighlight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlNormal = global::NFTAppV3.Droid.Resource.Attribute.colorControlNormal;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorError = global::NFTAppV3.Droid.Resource.Attribute.colorError;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorPrimary = global::NFTAppV3.Droid.Resource.Attribute.colorPrimary;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorPrimaryDark = global::NFTAppV3.Droid.Resource.Attribute.colorPrimaryDark;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorSecondary = global::NFTAppV3.Droid.Resource.Attribute.colorSecondary;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.colorSwitchThumbNormal = global::NFTAppV3.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.commitIcon = global::NFTAppV3.Droid.Resource.Attribute.commitIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentDescription = global::NFTAppV3.Droid.Resource.Attribute.contentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetEnd = global::NFTAppV3.Droid.Resource.Attribute.contentInsetEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetEndWithActions = global::NFTAppV3.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetLeft = global::NFTAppV3.Droid.Resource.Attribute.contentInsetLeft;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetRight = global::NFTAppV3.Droid.Resource.Attribute.contentInsetRight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetStart = global::NFTAppV3.Droid.Resource.Attribute.contentInsetStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetStartWithNavigation = global::NFTAppV3.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPadding = global::NFTAppV3.Droid.Resource.Attribute.contentPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingBottom = global::NFTAppV3.Droid.Resource.Attribute.contentPaddingBottom;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingLeft = global::NFTAppV3.Droid.Resource.Attribute.contentPaddingLeft;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingRight = global::NFTAppV3.Droid.Resource.Attribute.contentPaddingRight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingTop = global::NFTAppV3.Droid.Resource.Attribute.contentPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.contentScrim = global::NFTAppV3.Droid.Resource.Attribute.contentScrim;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.controlBackground = global::NFTAppV3.Droid.Resource.Attribute.controlBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.coordinatorLayoutStyle = global::NFTAppV3.Droid.Resource.Attribute.coordinatorLayoutStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.cornerRadius = global::NFTAppV3.Droid.Resource.Attribute.cornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.counterEnabled = global::NFTAppV3.Droid.Resource.Attribute.counterEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.counterMaxLength = global::NFTAppV3.Droid.Resource.Attribute.counterMaxLength;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.counterOverflowTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.counterTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.counterTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.customNavigationLayout = global::NFTAppV3.Droid.Resource.Attribute.customNavigationLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.defaultQueryHint = global::NFTAppV3.Droid.Resource.Attribute.defaultQueryHint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogCornerRadius = global::NFTAppV3.Droid.Resource.Attribute.dialogCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogPreferredPadding = global::NFTAppV3.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogTheme = global::NFTAppV3.Droid.Resource.Attribute.dialogTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.displayOptions = global::NFTAppV3.Droid.Resource.Attribute.displayOptions;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.divider = global::NFTAppV3.Droid.Resource.Attribute.divider;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerHorizontal = global::NFTAppV3.Droid.Resource.Attribute.dividerHorizontal;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerPadding = global::NFTAppV3.Droid.Resource.Attribute.dividerPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerVertical = global::NFTAppV3.Droid.Resource.Attribute.dividerVertical;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.drawableSize = global::NFTAppV3.Droid.Resource.Attribute.drawableSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.drawerArrowStyle = global::NFTAppV3.Droid.Resource.Attribute.drawerArrowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dropdownListPreferredItemHeight = global::NFTAppV3.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.dropDownListViewStyle = global::NFTAppV3.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextBackground = global::NFTAppV3.Droid.Resource.Attribute.editTextBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextColor = global::NFTAppV3.Droid.Resource.Attribute.editTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextStyle = global::NFTAppV3.Droid.Resource.Attribute.editTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.elevation = global::NFTAppV3.Droid.Resource.Attribute.elevation;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.enforceMaterialTheme = global::NFTAppV3.Droid.Resource.Attribute.enforceMaterialTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.enforceTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.enforceTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.errorEnabled = global::NFTAppV3.Droid.Resource.Attribute.errorEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.errorTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.errorTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandActivityOverflowButtonDrawable = global::NFTAppV3.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expanded = global::NFTAppV3.Droid.Resource.Attribute.expanded;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleGravity = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMargin = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginBottom = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginEnd = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginStart = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginTop = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabAlignmentMode = global::NFTAppV3.Droid.Resource.Attribute.fabAlignmentMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleMargin = global::NFTAppV3.Droid.Resource.Attribute.fabCradleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleRoundedCornerRadius = global::NFTAppV3.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleVerticalOffset = global::NFTAppV3.Droid.Resource.Attribute.fabCradleVerticalOffset;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCustomSize = global::NFTAppV3.Droid.Resource.Attribute.fabCustomSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fabSize = global::NFTAppV3.Droid.Resource.Attribute.fabSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollEnabled = global::NFTAppV3.Droid.Resource.Attribute.fastScrollEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::NFTAppV3.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::NFTAppV3.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollVerticalThumbDrawable = global::NFTAppV3.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollVerticalTrackDrawable = global::NFTAppV3.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.firstBaselineToTopHeight = global::NFTAppV3.Droid.Resource.Attribute.firstBaselineToTopHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.floatingActionButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.floatingActionButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.font = global::NFTAppV3.Droid.Resource.Attribute.font;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontFamily = global::NFTAppV3.Droid.Resource.Attribute.fontFamily;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderAuthority = global::NFTAppV3.Droid.Resource.Attribute.fontProviderAuthority;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderCerts = global::NFTAppV3.Droid.Resource.Attribute.fontProviderCerts;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderFetchStrategy = global::NFTAppV3.Droid.Resource.Attribute.fontProviderFetchStrategy;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderFetchTimeout = global::NFTAppV3.Droid.Resource.Attribute.fontProviderFetchTimeout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderPackage = global::NFTAppV3.Droid.Resource.Attribute.fontProviderPackage;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderQuery = global::NFTAppV3.Droid.Resource.Attribute.fontProviderQuery;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontStyle = global::NFTAppV3.Droid.Resource.Attribute.fontStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontVariationSettings = global::NFTAppV3.Droid.Resource.Attribute.fontVariationSettings;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.fontWeight = global::NFTAppV3.Droid.Resource.Attribute.fontWeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.foregroundInsidePadding = global::NFTAppV3.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.gapBetweenBars = global::NFTAppV3.Droid.Resource.Attribute.gapBetweenBars;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.goIcon = global::NFTAppV3.Droid.Resource.Attribute.goIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.headerLayout = global::NFTAppV3.Droid.Resource.Attribute.headerLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.height = global::NFTAppV3.Droid.Resource.Attribute.height;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.helperText = global::NFTAppV3.Droid.Resource.Attribute.helperText;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.helperTextEnabled = global::NFTAppV3.Droid.Resource.Attribute.helperTextEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.helperTextTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.helperTextTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hideMotionSpec = global::NFTAppV3.Droid.Resource.Attribute.hideMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hideOnContentScroll = global::NFTAppV3.Droid.Resource.Attribute.hideOnContentScroll;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hideOnScroll = global::NFTAppV3.Droid.Resource.Attribute.hideOnScroll;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hintAnimationEnabled = global::NFTAppV3.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hintEnabled = global::NFTAppV3.Droid.Resource.Attribute.hintEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hintTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.hintTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.homeAsUpIndicator = global::NFTAppV3.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.homeLayout = global::NFTAppV3.Droid.Resource.Attribute.homeLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.hoveredFocusedTranslationZ = global::NFTAppV3.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.icon = global::NFTAppV3.Droid.Resource.Attribute.icon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconEndPadding = global::NFTAppV3.Droid.Resource.Attribute.iconEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconGravity = global::NFTAppV3.Droid.Resource.Attribute.iconGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconifiedByDefault = global::NFTAppV3.Droid.Resource.Attribute.iconifiedByDefault;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconPadding = global::NFTAppV3.Droid.Resource.Attribute.iconPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconSize = global::NFTAppV3.Droid.Resource.Attribute.iconSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconStartPadding = global::NFTAppV3.Droid.Resource.Attribute.iconStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconTint = global::NFTAppV3.Droid.Resource.Attribute.iconTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.iconTintMode = global::NFTAppV3.Droid.Resource.Attribute.iconTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.imageButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.imageButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.indeterminateProgressStyle = global::NFTAppV3.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.initialActivityCount = global::NFTAppV3.Droid.Resource.Attribute.initialActivityCount;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.insetForeground = global::NFTAppV3.Droid.Resource.Attribute.insetForeground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.isLightTheme = global::NFTAppV3.Droid.Resource.Attribute.isLightTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemBackground = global::NFTAppV3.Droid.Resource.Attribute.itemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemHorizontalPadding = global::NFTAppV3.Droid.Resource.Attribute.itemHorizontalPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemHorizontalTranslationEnabled = global::NFTAppV3.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconPadding = global::NFTAppV3.Droid.Resource.Attribute.itemIconPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconSize = global::NFTAppV3.Droid.Resource.Attribute.itemIconSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconTint = global::NFTAppV3.Droid.Resource.Attribute.itemIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemPadding = global::NFTAppV3.Droid.Resource.Attribute.itemPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemSpacing = global::NFTAppV3.Droid.Resource.Attribute.itemSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.itemTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearanceActive = global::NFTAppV3.Droid.Resource.Attribute.itemTextAppearanceActive;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearanceInactive = global::NFTAppV3.Droid.Resource.Attribute.itemTextAppearanceInactive;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextColor = global::NFTAppV3.Droid.Resource.Attribute.itemTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.keylines = global::NFTAppV3.Droid.Resource.Attribute.keylines;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.labelVisibilityMode = global::NFTAppV3.Droid.Resource.Attribute.labelVisibilityMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.lastBaselineToBottomHeight = global::NFTAppV3.Droid.Resource.Attribute.lastBaselineToBottomHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout = global::NFTAppV3.Droid.Resource.Attribute.layout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layoutManager = global::NFTAppV3.Droid.Resource.Attribute.layoutManager;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_anchor = global::NFTAppV3.Droid.Resource.Attribute.layout_anchor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_anchorGravity = global::NFTAppV3.Droid.Resource.Attribute.layout_anchorGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_behavior = global::NFTAppV3.Droid.Resource.Attribute.layout_behavior;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_collapseMode = global::NFTAppV3.Droid.Resource.Attribute.layout_collapseMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_collapseParallaxMultiplier = global::NFTAppV3.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_dodgeInsetEdges = global::NFTAppV3.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_insetEdge = global::NFTAppV3.Droid.Resource.Attribute.layout_insetEdge;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_keyline = global::NFTAppV3.Droid.Resource.Attribute.layout_keyline;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_scrollFlags = global::NFTAppV3.Droid.Resource.Attribute.layout_scrollFlags;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_scrollInterpolator = global::NFTAppV3.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.liftOnScroll = global::NFTAppV3.Droid.Resource.Attribute.liftOnScroll;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.lineHeight = global::NFTAppV3.Droid.Resource.Attribute.lineHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.lineSpacing = global::NFTAppV3.Droid.Resource.Attribute.lineSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listChoiceBackgroundIndicator = global::NFTAppV3.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listDividerAlertDialog = global::NFTAppV3.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listItemLayout = global::NFTAppV3.Droid.Resource.Attribute.listItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listLayout = global::NFTAppV3.Droid.Resource.Attribute.listLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listMenuViewStyle = global::NFTAppV3.Droid.Resource.Attribute.listMenuViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPopupWindowStyle = global::NFTAppV3.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeight = global::NFTAppV3.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeightLarge = global::NFTAppV3.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeightSmall = global::NFTAppV3.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemPaddingLeft = global::NFTAppV3.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemPaddingRight = global::NFTAppV3.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.logo = global::NFTAppV3.Droid.Resource.Attribute.logo;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.logoDescription = global::NFTAppV3.Droid.Resource.Attribute.logoDescription;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.materialButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.materialButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.materialCardViewStyle = global::NFTAppV3.Droid.Resource.Attribute.materialCardViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.maxActionInlineWidth = global::NFTAppV3.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.maxButtonHeight = global::NFTAppV3.Droid.Resource.Attribute.maxButtonHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.maxImageSize = global::NFTAppV3.Droid.Resource.Attribute.maxImageSize;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.measureWithLargestChild = global::NFTAppV3.Droid.Resource.Attribute.measureWithLargestChild;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.menu = global::NFTAppV3.Droid.Resource.Attribute.menu;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.multiChoiceItemLayout = global::NFTAppV3.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationContentDescription = global::NFTAppV3.Droid.Resource.Attribute.navigationContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationIcon = global::NFTAppV3.Droid.Resource.Attribute.navigationIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationMode = global::NFTAppV3.Droid.Resource.Attribute.navigationMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationViewStyle = global::NFTAppV3.Droid.Resource.Attribute.navigationViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.numericModifiers = global::NFTAppV3.Droid.Resource.Attribute.numericModifiers;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.overlapAnchor = global::NFTAppV3.Droid.Resource.Attribute.overlapAnchor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingBottomNoButtons = global::NFTAppV3.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingEnd = global::NFTAppV3.Droid.Resource.Attribute.paddingEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingStart = global::NFTAppV3.Droid.Resource.Attribute.paddingStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingTopNoTitle = global::NFTAppV3.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.panelBackground = global::NFTAppV3.Droid.Resource.Attribute.panelBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.panelMenuListTheme = global::NFTAppV3.Droid.Resource.Attribute.panelMenuListTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.panelMenuListWidth = global::NFTAppV3.Droid.Resource.Attribute.panelMenuListWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleContentDescription = global::NFTAppV3.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleDrawable = global::NFTAppV3.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleEnabled = global::NFTAppV3.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleTint = global::NFTAppV3.Droid.Resource.Attribute.passwordToggleTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleTintMode = global::NFTAppV3.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.popupMenuStyle = global::NFTAppV3.Droid.Resource.Attribute.popupMenuStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.popupTheme = global::NFTAppV3.Droid.Resource.Attribute.popupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.popupWindowStyle = global::NFTAppV3.Droid.Resource.Attribute.popupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.preserveIconSpacing = global::NFTAppV3.Droid.Resource.Attribute.preserveIconSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.pressedTranslationZ = global::NFTAppV3.Droid.Resource.Attribute.pressedTranslationZ;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.progressBarPadding = global::NFTAppV3.Droid.Resource.Attribute.progressBarPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.progressBarStyle = global::NFTAppV3.Droid.Resource.Attribute.progressBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.queryBackground = global::NFTAppV3.Droid.Resource.Attribute.queryBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.queryHint = global::NFTAppV3.Droid.Resource.Attribute.queryHint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.radioButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.radioButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyle = global::NFTAppV3.Droid.Resource.Attribute.ratingBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyleIndicator = global::NFTAppV3.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyleSmall = global::NFTAppV3.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.reverseLayout = global::NFTAppV3.Droid.Resource.Attribute.reverseLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.rippleColor = global::NFTAppV3.Droid.Resource.Attribute.rippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimAnimationDuration = global::NFTAppV3.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimBackground = global::NFTAppV3.Droid.Resource.Attribute.scrimBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimVisibleHeightTrigger = global::NFTAppV3.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.searchHintIcon = global::NFTAppV3.Droid.Resource.Attribute.searchHintIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.searchIcon = global::NFTAppV3.Droid.Resource.Attribute.searchIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.searchViewStyle = global::NFTAppV3.Droid.Resource.Attribute.searchViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.seekBarStyle = global::NFTAppV3.Droid.Resource.Attribute.seekBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.selectableItemBackground = global::NFTAppV3.Droid.Resource.Attribute.selectableItemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.selectableItemBackgroundBorderless = global::NFTAppV3.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.showAsAction = global::NFTAppV3.Droid.Resource.Attribute.showAsAction;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.showDividers = global::NFTAppV3.Droid.Resource.Attribute.showDividers;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.showMotionSpec = global::NFTAppV3.Droid.Resource.Attribute.showMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.showText = global::NFTAppV3.Droid.Resource.Attribute.showText;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.showTitle = global::NFTAppV3.Droid.Resource.Attribute.showTitle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.singleChoiceItemLayout = global::NFTAppV3.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.singleLine = global::NFTAppV3.Droid.Resource.Attribute.singleLine;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.singleSelection = global::NFTAppV3.Droid.Resource.Attribute.singleSelection;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.snackbarButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.snackbarButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.snackbarStyle = global::NFTAppV3.Droid.Resource.Attribute.snackbarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.spanCount = global::NFTAppV3.Droid.Resource.Attribute.spanCount;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.spinBars = global::NFTAppV3.Droid.Resource.Attribute.spinBars;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.spinnerDropDownItemStyle = global::NFTAppV3.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.spinnerStyle = global::NFTAppV3.Droid.Resource.Attribute.spinnerStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.splitTrack = global::NFTAppV3.Droid.Resource.Attribute.splitTrack;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.srcCompat = global::NFTAppV3.Droid.Resource.Attribute.srcCompat;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.stackFromEnd = global::NFTAppV3.Droid.Resource.Attribute.stackFromEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.state_above_anchor = global::NFTAppV3.Droid.Resource.Attribute.state_above_anchor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.state_collapsed = global::NFTAppV3.Droid.Resource.Attribute.state_collapsed;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.state_collapsible = global::NFTAppV3.Droid.Resource.Attribute.state_collapsible;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.state_liftable = global::NFTAppV3.Droid.Resource.Attribute.state_liftable;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.state_lifted = global::NFTAppV3.Droid.Resource.Attribute.state_lifted;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.statusBarBackground = global::NFTAppV3.Droid.Resource.Attribute.statusBarBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.statusBarScrim = global::NFTAppV3.Droid.Resource.Attribute.statusBarScrim;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.strokeColor = global::NFTAppV3.Droid.Resource.Attribute.strokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.strokeWidth = global::NFTAppV3.Droid.Resource.Attribute.strokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.subMenuArrow = global::NFTAppV3.Droid.Resource.Attribute.subMenuArrow;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.submitBackground = global::NFTAppV3.Droid.Resource.Attribute.submitBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitle = global::NFTAppV3.Droid.Resource.Attribute.subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextColor = global::NFTAppV3.Droid.Resource.Attribute.subtitleTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextStyle = global::NFTAppV3.Droid.Resource.Attribute.subtitleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.suggestionRowLayout = global::NFTAppV3.Droid.Resource.Attribute.suggestionRowLayout;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.switchMinWidth = global::NFTAppV3.Droid.Resource.Attribute.switchMinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.switchPadding = global::NFTAppV3.Droid.Resource.Attribute.switchPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.switchStyle = global::NFTAppV3.Droid.Resource.Attribute.switchStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.switchTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.switchTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabBackground = global::NFTAppV3.Droid.Resource.Attribute.tabBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabContentStart = global::NFTAppV3.Droid.Resource.Attribute.tabContentStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabGravity = global::NFTAppV3.Droid.Resource.Attribute.tabGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIconTint = global::NFTAppV3.Droid.Resource.Attribute.tabIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIconTintMode = global::NFTAppV3.Droid.Resource.Attribute.tabIconTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicator = global::NFTAppV3.Droid.Resource.Attribute.tabIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorAnimationDuration = global::NFTAppV3.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorColor = global::NFTAppV3.Droid.Resource.Attribute.tabIndicatorColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorFullWidth = global::NFTAppV3.Droid.Resource.Attribute.tabIndicatorFullWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorGravity = global::NFTAppV3.Droid.Resource.Attribute.tabIndicatorGravity;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorHeight = global::NFTAppV3.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabInlineLabel = global::NFTAppV3.Droid.Resource.Attribute.tabInlineLabel;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMaxWidth = global::NFTAppV3.Droid.Resource.Attribute.tabMaxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMinWidth = global::NFTAppV3.Droid.Resource.Attribute.tabMinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMode = global::NFTAppV3.Droid.Resource.Attribute.tabMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPadding = global::NFTAppV3.Droid.Resource.Attribute.tabPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingBottom = global::NFTAppV3.Droid.Resource.Attribute.tabPaddingBottom;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingEnd = global::NFTAppV3.Droid.Resource.Attribute.tabPaddingEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingStart = global::NFTAppV3.Droid.Resource.Attribute.tabPaddingStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingTop = global::NFTAppV3.Droid.Resource.Attribute.tabPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabRippleColor = global::NFTAppV3.Droid.Resource.Attribute.tabRippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabSelectedTextColor = global::NFTAppV3.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabStyle = global::NFTAppV3.Droid.Resource.Attribute.tabStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.tabTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabTextColor = global::NFTAppV3.Droid.Resource.Attribute.tabTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tabUnboundedRipple = global::NFTAppV3.Droid.Resource.Attribute.tabUnboundedRipple;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAllCaps = global::NFTAppV3.Droid.Resource.Attribute.textAllCaps;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceBody1 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceBody1;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceBody2 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceBody2;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceButton = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceButton;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceCaption = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceCaption;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline1 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline1;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline2 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline2;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline3 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline3;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline4 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline4;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline5 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline5;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline6 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceHeadline6;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceLargePopupMenu = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItem = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceListItem;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItemSecondary = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItemSmall = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceOverline = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceOverline;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearancePopupMenuHeader = global::NFTAppV3.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSearchResultSubtitle = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSearchResultTitle = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSmallPopupMenu = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSubtitle1 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceSubtitle1;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSubtitle2 = global::NFTAppV3.Droid.Resource.Attribute.textAppearanceSubtitle2;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textColorAlertDialogListItem = global::NFTAppV3.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textColorSearchUrl = global::NFTAppV3.Droid.Resource.Attribute.textColorSearchUrl;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textEndPadding = global::NFTAppV3.Droid.Resource.Attribute.textEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textInputStyle = global::NFTAppV3.Droid.Resource.Attribute.textInputStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.textStartPadding = global::NFTAppV3.Droid.Resource.Attribute.textStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.theme = global::NFTAppV3.Droid.Resource.Attribute.theme;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.thickness = global::NFTAppV3.Droid.Resource.Attribute.thickness;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTextPadding = global::NFTAppV3.Droid.Resource.Attribute.thumbTextPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTint = global::NFTAppV3.Droid.Resource.Attribute.thumbTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTintMode = global::NFTAppV3.Droid.Resource.Attribute.thumbTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMark = global::NFTAppV3.Droid.Resource.Attribute.tickMark;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMarkTint = global::NFTAppV3.Droid.Resource.Attribute.tickMarkTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMarkTintMode = global::NFTAppV3.Droid.Resource.Attribute.tickMarkTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tint = global::NFTAppV3.Droid.Resource.Attribute.tint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tintMode = global::NFTAppV3.Droid.Resource.Attribute.tintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.title = global::NFTAppV3.Droid.Resource.Attribute.title;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleEnabled = global::NFTAppV3.Droid.Resource.Attribute.titleEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMargin = global::NFTAppV3.Droid.Resource.Attribute.titleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginBottom = global::NFTAppV3.Droid.Resource.Attribute.titleMarginBottom;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginEnd = global::NFTAppV3.Droid.Resource.Attribute.titleMarginEnd;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMargins = global::NFTAppV3.Droid.Resource.Attribute.titleMargins;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginStart = global::NFTAppV3.Droid.Resource.Attribute.titleMarginStart;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginTop = global::NFTAppV3.Droid.Resource.Attribute.titleMarginTop;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextAppearance = global::NFTAppV3.Droid.Resource.Attribute.titleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextColor = global::NFTAppV3.Droid.Resource.Attribute.titleTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextStyle = global::NFTAppV3.Droid.Resource.Attribute.titleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarId = global::NFTAppV3.Droid.Resource.Attribute.toolbarId;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarNavigationButtonStyle = global::NFTAppV3.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarStyle = global::NFTAppV3.Droid.Resource.Attribute.toolbarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipForegroundColor = global::NFTAppV3.Droid.Resource.Attribute.tooltipForegroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipFrameBackground = global::NFTAppV3.Droid.Resource.Attribute.tooltipFrameBackground;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipText = global::NFTAppV3.Droid.Resource.Attribute.tooltipText;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.track = global::NFTAppV3.Droid.Resource.Attribute.track;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.trackTint = global::NFTAppV3.Droid.Resource.Attribute.trackTint;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.trackTintMode = global::NFTAppV3.Droid.Resource.Attribute.trackTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.ttcIndex = global::NFTAppV3.Droid.Resource.Attribute.ttcIndex;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.useCompatPadding = global::NFTAppV3.Droid.Resource.Attribute.useCompatPadding;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.viewInflaterClass = global::NFTAppV3.Droid.Resource.Attribute.viewInflaterClass;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.voiceIcon = global::NFTAppV3.Droid.Resource.Attribute.voiceIcon;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionBar = global::NFTAppV3.Droid.Resource.Attribute.windowActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionBarOverlay = global::NFTAppV3.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionModeOverlay = global::NFTAppV3.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedHeightMajor = global::NFTAppV3.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedHeightMinor = global::NFTAppV3.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedWidthMajor = global::NFTAppV3.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedWidthMinor = global::NFTAppV3.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowMinWidthMajor = global::NFTAppV3.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowMinWidthMinor = global::NFTAppV3.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::SkiaSharp.Views.Forms.Resource.Attribute.windowNoTitle = global::NFTAppV3.Droid.Resource.Attribute.windowNoTitle;
-			global::SkiaSharp.Views.Forms.Resource.Boolean.abc_action_bar_embed_tabs = global::NFTAppV3.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::SkiaSharp.Views.Forms.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::NFTAppV3.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::SkiaSharp.Views.Forms.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::NFTAppV3.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_background_cache_hint_selector_material_dark = global::NFTAppV3.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_background_cache_hint_selector_material_light = global::NFTAppV3.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_btn_colored_borderless_text_material = global::NFTAppV3.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_btn_colored_text_material = global::NFTAppV3.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_color_highlight_material = global::NFTAppV3.Droid.Resource.Color.abc_color_highlight_material;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_hint_foreground_material_dark = global::NFTAppV3.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_hint_foreground_material_light = global::NFTAppV3.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_disable_only_material_dark = global::NFTAppV3.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_disable_only_material_light = global::NFTAppV3.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_material_dark = global::NFTAppV3.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_material_light = global::NFTAppV3.Droid.Resource.Color.abc_primary_text_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text = global::NFTAppV3.Droid.Resource.Color.abc_search_url_text;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_normal = global::NFTAppV3.Droid.Resource.Color.abc_search_url_text_normal;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_pressed = global::NFTAppV3.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_selected = global::NFTAppV3.Droid.Resource.Color.abc_search_url_text_selected;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_secondary_text_material_dark = global::NFTAppV3.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_secondary_text_material_light = global::NFTAppV3.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_btn_checkable = global::NFTAppV3.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_default = global::NFTAppV3.Droid.Resource.Color.abc_tint_default;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_edittext = global::NFTAppV3.Droid.Resource.Color.abc_tint_edittext;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_seek_thumb = global::NFTAppV3.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_spinner = global::NFTAppV3.Droid.Resource.Color.abc_tint_spinner;
-			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_switch_track = global::NFTAppV3.Droid.Resource.Color.abc_tint_switch_track;
-			global::SkiaSharp.Views.Forms.Resource.Color.accent_material_dark = global::NFTAppV3.Droid.Resource.Color.accent_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.accent_material_light = global::NFTAppV3.Droid.Resource.Color.accent_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.background_floating_material_dark = global::NFTAppV3.Droid.Resource.Color.background_floating_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.background_floating_material_light = global::NFTAppV3.Droid.Resource.Color.background_floating_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.background_material_dark = global::NFTAppV3.Droid.Resource.Color.background_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.background_material_light = global::NFTAppV3.Droid.Resource.Color.background_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_disabled_material_dark = global::NFTAppV3.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_disabled_material_light = global::NFTAppV3.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_inverse_material_dark = global::NFTAppV3.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_inverse_material_light = global::NFTAppV3.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_material_dark = global::NFTAppV3.Droid.Resource.Color.bright_foreground_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_material_light = global::NFTAppV3.Droid.Resource.Color.bright_foreground_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_bg_grey = global::NFTAppV3.Droid.Resource.Color.browser_actions_bg_grey;
-			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_divider_color = global::NFTAppV3.Droid.Resource.Color.browser_actions_divider_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_text_color = global::NFTAppV3.Droid.Resource.Color.browser_actions_text_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_title_color = global::NFTAppV3.Droid.Resource.Color.browser_actions_title_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.button_material_dark = global::NFTAppV3.Droid.Resource.Color.button_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.button_material_light = global::NFTAppV3.Droid.Resource.Color.button_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.cardview_dark_background = global::NFTAppV3.Droid.Resource.Color.cardview_dark_background;
-			global::SkiaSharp.Views.Forms.Resource.Color.cardview_light_background = global::NFTAppV3.Droid.Resource.Color.cardview_light_background;
-			global::SkiaSharp.Views.Forms.Resource.Color.cardview_shadow_end_color = global::NFTAppV3.Droid.Resource.Color.cardview_shadow_end_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.cardview_shadow_start_color = global::NFTAppV3.Droid.Resource.Color.cardview_shadow_start_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_bottom_navigation_shadow_color = global::NFTAppV3.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_default_color_primary = global::NFTAppV3.Droid.Resource.Color.design_default_color_primary;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_default_color_primary_dark = global::NFTAppV3.Droid.Resource.Color.design_default_color_primary_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_error = global::NFTAppV3.Droid.Resource.Color.design_error;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_end_color = global::NFTAppV3.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_mid_color = global::NFTAppV3.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_start_color = global::NFTAppV3.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_end_inner_color = global::NFTAppV3.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_end_outer_color = global::NFTAppV3.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_top_inner_color = global::NFTAppV3.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_top_outer_color = global::NFTAppV3.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.design_snackbar_background_color = global::NFTAppV3.Droid.Resource.Color.design_snackbar_background_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_disabled_material_dark = global::NFTAppV3.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_disabled_material_light = global::NFTAppV3.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_material_dark = global::NFTAppV3.Droid.Resource.Color.dim_foreground_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_material_light = global::NFTAppV3.Droid.Resource.Color.dim_foreground_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.error_color_material_dark = global::NFTAppV3.Droid.Resource.Color.error_color_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.error_color_material_light = global::NFTAppV3.Droid.Resource.Color.error_color_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.foreground_material_dark = global::NFTAppV3.Droid.Resource.Color.foreground_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.foreground_material_light = global::NFTAppV3.Droid.Resource.Color.foreground_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.highlighted_text_material_dark = global::NFTAppV3.Droid.Resource.Color.highlighted_text_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.highlighted_text_material_light = global::NFTAppV3.Droid.Resource.Color.highlighted_text_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_800 = global::NFTAppV3.Droid.Resource.Color.material_blue_grey_800;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_900 = global::NFTAppV3.Droid.Resource.Color.material_blue_grey_900;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_950 = global::NFTAppV3.Droid.Resource.Color.material_blue_grey_950;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_deep_teal_200 = global::NFTAppV3.Droid.Resource.Color.material_deep_teal_200;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_deep_teal_500 = global::NFTAppV3.Droid.Resource.Color.material_deep_teal_500;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_100 = global::NFTAppV3.Droid.Resource.Color.material_grey_100;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_300 = global::NFTAppV3.Droid.Resource.Color.material_grey_300;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_50 = global::NFTAppV3.Droid.Resource.Color.material_grey_50;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_600 = global::NFTAppV3.Droid.Resource.Color.material_grey_600;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_800 = global::NFTAppV3.Droid.Resource.Color.material_grey_800;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_850 = global::NFTAppV3.Droid.Resource.Color.material_grey_850;
-			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_900 = global::NFTAppV3.Droid.Resource.Color.material_grey_900;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_bg_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_bg_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_ripple_color = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_ripple_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_stroke_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_btn_ripple_color = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_color_disabled = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_text_color_disabled;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_text_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_transparent_bg_color = global::NFTAppV3.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_background_color = global::NFTAppV3.Droid.Resource.Color.mtrl_chip_background_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_close_icon_tint = global::NFTAppV3.Droid.Resource.Color.mtrl_chip_close_icon_tint;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_text_color = global::NFTAppV3.Droid.Resource.Color.mtrl_chip_text_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_fab_ripple_color = global::NFTAppV3.Droid.Resource.Color.mtrl_fab_ripple_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_scrim_color = global::NFTAppV3.Droid.Resource.Color.mtrl_scrim_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_colored_ripple_color = global::NFTAppV3.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_icon_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::NFTAppV3.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_ripple_color = global::NFTAppV3.Droid.Resource.Color.mtrl_tabs_ripple_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_default_box_stroke_color = global::NFTAppV3.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_disabled_color = global::NFTAppV3.Droid.Resource.Color.mtrl_textinput_disabled_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::NFTAppV3.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::NFTAppV3.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_text_btn_text_color_selector = global::NFTAppV3.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
-			global::SkiaSharp.Views.Forms.Resource.Color.notification_action_color_filter = global::NFTAppV3.Droid.Resource.Color.notification_action_color_filter;
-			global::SkiaSharp.Views.Forms.Resource.Color.notification_icon_bg_color = global::NFTAppV3.Droid.Resource.Color.notification_icon_bg_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.notification_material_background_media_default_color = global::NFTAppV3.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_dark_material_dark = global::NFTAppV3.Droid.Resource.Color.primary_dark_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_dark_material_light = global::NFTAppV3.Droid.Resource.Color.primary_dark_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_material_dark = global::NFTAppV3.Droid.Resource.Color.primary_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_material_light = global::NFTAppV3.Droid.Resource.Color.primary_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_default_material_dark = global::NFTAppV3.Droid.Resource.Color.primary_text_default_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_default_material_light = global::NFTAppV3.Droid.Resource.Color.primary_text_default_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_disabled_material_dark = global::NFTAppV3.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_disabled_material_light = global::NFTAppV3.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.ripple_material_dark = global::NFTAppV3.Droid.Resource.Color.ripple_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.ripple_material_light = global::NFTAppV3.Droid.Resource.Color.ripple_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_default_material_dark = global::NFTAppV3.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_default_material_light = global::NFTAppV3.Droid.Resource.Color.secondary_text_default_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_disabled_material_dark = global::NFTAppV3.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_disabled_material_light = global::NFTAppV3.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_disabled_material_dark = global::NFTAppV3.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_disabled_material_light = global::NFTAppV3.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_material_dark = global::NFTAppV3.Droid.Resource.Color.switch_thumb_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_material_light = global::NFTAppV3.Droid.Resource.Color.switch_thumb_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_normal_material_dark = global::NFTAppV3.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_normal_material_light = global::NFTAppV3.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Color.tooltip_background_dark = global::NFTAppV3.Droid.Resource.Color.tooltip_background_dark;
-			global::SkiaSharp.Views.Forms.Resource.Color.tooltip_background_light = global::NFTAppV3.Droid.Resource.Color.tooltip_background_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_content_inset_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_height_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_padding_end_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_padding_start_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_elevation_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_stacked_max_height = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_height_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_width_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_width_overflow_material = global::NFTAppV3.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_alert_dialog_button_bar_height = global::NFTAppV3.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_alert_dialog_button_dimen = global::NFTAppV3.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_inset_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_inset_vertical_material = global::NFTAppV3.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_padding_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_padding_vertical_material = global::NFTAppV3.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::NFTAppV3.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_config_prefDialogWidth = global::NFTAppV3.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_corner_material = global::NFTAppV3.Droid.Resource.Dimension.abc_control_corner_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_inset_material = global::NFTAppV3.Droid.Resource.Dimension.abc_control_inset_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_padding_material = global::NFTAppV3.Droid.Resource.Dimension.abc_control_padding_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_corner_radius_material = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_height_major = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_height_minor = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_width_major = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_width_minor = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_min_width_major = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_min_width_minor = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_padding_material = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_padding_top_material = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_title_divider_material = global::NFTAppV3.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_disabled_alpha_material_dark = global::NFTAppV3.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_disabled_alpha_material_light = global::NFTAppV3.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_icon_width = global::NFTAppV3.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_text_padding_left = global::NFTAppV3.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_text_padding_right = global::NFTAppV3.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_bottom_material = global::NFTAppV3.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_top_material = global::NFTAppV3.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_floating_window_z = global::NFTAppV3.Droid.Resource.Dimension.abc_floating_window_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_list_item_padding_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_panel_menu_list_width = global::NFTAppV3.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_progress_bar_height_material = global::NFTAppV3.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_search_view_preferred_height = global::NFTAppV3.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_search_view_preferred_width = global::NFTAppV3.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_seekbar_track_background_height_material = global::NFTAppV3.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_seekbar_track_progress_height_material = global::NFTAppV3.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_select_dialog_padding_start_material = global::NFTAppV3.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_switch_padding = global::NFTAppV3.Droid.Resource.Dimension.abc_switch_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_body_1_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_body_2_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_button_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_caption_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_1_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_2_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_3_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_4_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_headline_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_large_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_medium_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_menu_header_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_menu_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_small_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_subhead_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_title_material = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_title_material_toolbar = global::NFTAppV3.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.browser_actions_context_menu_max_width = global::NFTAppV3.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.browser_actions_context_menu_min_padding = global::NFTAppV3.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_compat_inset_shadow = global::NFTAppV3.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_default_elevation = global::NFTAppV3.Droid.Resource.Dimension.cardview_default_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_default_radius = global::NFTAppV3.Droid.Resource.Dimension.cardview_default_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_inset_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_inset_vertical_material = global::NFTAppV3.Droid.Resource.Dimension.compat_button_inset_vertical_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_padding_horizontal_material = global::NFTAppV3.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_padding_vertical_material = global::NFTAppV3.Droid.Resource.Dimension.compat_button_padding_vertical_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_control_corner_material = global::NFTAppV3.Droid.Resource.Dimension.compat_control_corner_material;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_notification_large_icon_max_height = global::NFTAppV3.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_notification_large_icon_max_width = global::NFTAppV3.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_appbar_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_appbar_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_text_size = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_height = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_icon_size = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_item_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_item_min_width = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_margin = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_shadow_height = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_text_size = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_sheet_modal_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_sheet_peek_height_min = global::NFTAppV3.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_border_width = global::NFTAppV3.Droid.Resource.Dimension.design_fab_border_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_fab_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_image_size = global::NFTAppV3.Droid.Resource.Dimension.design_fab_image_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_size_mini = global::NFTAppV3.Droid.Resource.Dimension.design_fab_size_mini;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_size_normal = global::NFTAppV3.Droid.Resource.Dimension.design_fab_size_normal;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_translation_z_hovered_focused = global::NFTAppV3.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_translation_z_pressed = global::NFTAppV3.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_icon_padding = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_icon_size = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_item_horizontal_padding = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_item_icon_padding = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_item_icon_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_padding_bottom = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_separator_vertical_padding = global::NFTAppV3.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_action_inline_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_background_corner_radius = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_elevation = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_min_width = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_horizontal = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_vertical = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_text_size = global::NFTAppV3.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_max_width = global::NFTAppV3.Droid.Resource.Dimension.design_tab_max_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_scrollable_min_width = global::NFTAppV3.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_text_size = global::NFTAppV3.Droid.Resource.Dimension.design_tab_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_text_size_2line = global::NFTAppV3.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.design_textinput_caption_translate_y = global::NFTAppV3.Droid.Resource.Dimension.design_textinput_caption_translate_y;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.disabled_alpha_material_dark = global::NFTAppV3.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.disabled_alpha_material_light = global::NFTAppV3.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_default_thickness = global::NFTAppV3.Droid.Resource.Dimension.fastscroll_default_thickness;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_margin = global::NFTAppV3.Droid.Resource.Dimension.fastscroll_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_minimum_range = global::NFTAppV3.Droid.Resource.Dimension.fastscroll_minimum_range;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_colored = global::NFTAppV3.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_dark = global::NFTAppV3.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_light = global::NFTAppV3.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_alpha_material_dark = global::NFTAppV3.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_alpha_material_light = global::NFTAppV3.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_pressed_alpha_material_dark = global::NFTAppV3.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_pressed_alpha_material_light = global::NFTAppV3.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::NFTAppV3.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::NFTAppV3.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::NFTAppV3.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::NFTAppV3.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::NFTAppV3.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::NFTAppV3.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::NFTAppV3.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_height = global::NFTAppV3.Droid.Resource.Dimension.mtrl_bottomappbar_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_corner_radius = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_corner_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_disabled_elevation = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_disabled_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_disabled_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_elevation = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_focused_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_focused_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_hovered_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_hovered_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_icon_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_icon_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_inset = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_inset;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_letter_spacing = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_bottom = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_left = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_padding_left;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_right = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_padding_right;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_top = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_padding_top;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_pressed_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_pressed_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_stroke_size = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_stroke_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_size = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_btn_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_card_elevation = global::NFTAppV3.Droid.Resource.Dimension.mtrl_card_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_card_spacing = global::NFTAppV3.Droid.Resource.Dimension.mtrl_card_spacing;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_chip_pressed_translation_z = global::NFTAppV3.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_chip_text_size = global::NFTAppV3.Droid.Resource.Dimension.mtrl_chip_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_elevation = global::NFTAppV3.Droid.Resource.Dimension.mtrl_fab_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::NFTAppV3.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_translation_z_pressed = global::NFTAppV3.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_elevation = global::NFTAppV3.Droid.Resource.Dimension.mtrl_navigation_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_item_icon_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::NFTAppV3.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_snackbar_margin = global::NFTAppV3.Droid.Resource.Dimension.mtrl_snackbar_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::NFTAppV3.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_toolbar_default_height = global::NFTAppV3.Droid.Resource.Dimension.mtrl_toolbar_default_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_action_icon_size = global::NFTAppV3.Droid.Resource.Dimension.notification_action_icon_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_action_text_size = global::NFTAppV3.Droid.Resource.Dimension.notification_action_text_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_big_circle_margin = global::NFTAppV3.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_content_margin_start = global::NFTAppV3.Droid.Resource.Dimension.notification_content_margin_start;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_large_icon_height = global::NFTAppV3.Droid.Resource.Dimension.notification_large_icon_height;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_large_icon_width = global::NFTAppV3.Droid.Resource.Dimension.notification_large_icon_width;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_main_column_padding_top = global::NFTAppV3.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_media_narrow_margin = global::NFTAppV3.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_right_icon_size = global::NFTAppV3.Droid.Resource.Dimension.notification_right_icon_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_right_side_padding_top = global::NFTAppV3.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_small_icon_background_padding = global::NFTAppV3.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_small_icon_size_as_large = global::NFTAppV3.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_subtext_size = global::NFTAppV3.Droid.Resource.Dimension.notification_subtext_size;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_top_pad = global::NFTAppV3.Droid.Resource.Dimension.notification_top_pad;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_top_pad_large_text = global::NFTAppV3.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_corner_radius = global::NFTAppV3.Droid.Resource.Dimension.tooltip_corner_radius;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_horizontal_padding = global::NFTAppV3.Droid.Resource.Dimension.tooltip_horizontal_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_margin = global::NFTAppV3.Droid.Resource.Dimension.tooltip_margin;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::NFTAppV3.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_precise_anchor_threshold = global::NFTAppV3.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_vertical_padding = global::NFTAppV3.Droid.Resource.Dimension.tooltip_vertical_padding;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_y_offset_non_touch = global::NFTAppV3.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_y_offset_touch = global::NFTAppV3.Droid.Resource.Dimension.tooltip_y_offset_touch;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_action_bar_item_background_material = global::NFTAppV3.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_borderless_material = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_material = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_check_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_colored_material = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_default_mtrl_shape = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_material = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::NFTAppV3.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_internal_bg = global::NFTAppV3.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_top_material = global::NFTAppV3.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_control_background_material = global::NFTAppV3.Droid.Resource.Drawable.abc_control_background_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_dialog_material_background = global::NFTAppV3.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_edit_text_material = global::NFTAppV3.Droid.Resource.Drawable.abc_edit_text_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_ab_back_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_clear_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_go_search_api_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_overflow_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_search_api_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_voice_search_api_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_item_background_holo_dark = global::NFTAppV3.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_item_background_holo_light = global::NFTAppV3.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_divider_material = global::NFTAppV3.Droid.Resource.Drawable.abc_list_divider_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_divider_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_focused_holo = global::NFTAppV3.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_longpressed_holo = global::NFTAppV3.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_pressed_holo_dark = global::NFTAppV3.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_pressed_holo_light = global::NFTAppV3.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_disabled_holo_light = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_holo_dark = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_holo_light = global::NFTAppV3.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::NFTAppV3.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_popup_background_mtrl_mult = global::NFTAppV3.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_indicator_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_small_material = global::NFTAppV3.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::NFTAppV3.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::NFTAppV3.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_thumb_material = global::NFTAppV3.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_tick_mark_material = global::NFTAppV3.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_track_material = global::NFTAppV3.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_spinner_textfield_background_material = global::NFTAppV3.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_switch_thumb_material = global::NFTAppV3.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_switch_track_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_tab_indicator_material = global::NFTAppV3.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::NFTAppV3.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_material = global::NFTAppV3.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_cursor_material = global::NFTAppV3.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_vector_test = global::NFTAppV3.Droid.Resource.Drawable.abc_vector_test;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.avd_hide_password = global::NFTAppV3.Droid.Resource.Drawable.avd_hide_password;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.avd_show_password = global::NFTAppV3.Droid.Resource.Drawable.avd_show_password;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.design_fab_background = global::NFTAppV3.Droid.Resource.Drawable.design_fab_background;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.design_ic_visibility = global::NFTAppV3.Droid.Resource.Drawable.design_ic_visibility;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.design_ic_visibility_off = global::NFTAppV3.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.design_password_eye = global::NFTAppV3.Droid.Resource.Drawable.design_password_eye;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.design_snackbar_background = global::NFTAppV3.Droid.Resource.Drawable.design_snackbar_background;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_checked_black = global::NFTAppV3.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_checked_circle = global::NFTAppV3.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_close_circle = global::NFTAppV3.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.mtrl_tabs_default_indicator = global::NFTAppV3.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.navigation_empty_icon = global::NFTAppV3.Droid.Resource.Drawable.navigation_empty_icon;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_action_background = global::NFTAppV3.Droid.Resource.Drawable.notification_action_background;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg = global::NFTAppV3.Droid.Resource.Drawable.notification_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low = global::NFTAppV3.Droid.Resource.Drawable.notification_bg_low;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low_normal = global::NFTAppV3.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low_pressed = global::NFTAppV3.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_normal = global::NFTAppV3.Droid.Resource.Drawable.notification_bg_normal;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_normal_pressed = global::NFTAppV3.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_icon_background = global::NFTAppV3.Droid.Resource.Drawable.notification_icon_background;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_template_icon_bg = global::NFTAppV3.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_template_icon_low_bg = global::NFTAppV3.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_tile_bg = global::NFTAppV3.Droid.Resource.Drawable.notification_tile_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.notify_panel_notification_icon_bg = global::NFTAppV3.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.tooltip_frame_dark = global::NFTAppV3.Droid.Resource.Drawable.tooltip_frame_dark;
-			global::SkiaSharp.Views.Forms.Resource.Drawable.tooltip_frame_light = global::NFTAppV3.Droid.Resource.Drawable.tooltip_frame_light;
-			global::SkiaSharp.Views.Forms.Resource.Id.action0 = global::NFTAppV3.Droid.Resource.Id.action0;
-			global::SkiaSharp.Views.Forms.Resource.Id.actions = global::NFTAppV3.Droid.Resource.Id.actions;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar = global::NFTAppV3.Droid.Resource.Id.action_bar;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_activity_content = global::NFTAppV3.Droid.Resource.Id.action_bar_activity_content;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_container = global::NFTAppV3.Droid.Resource.Id.action_bar_container;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_root = global::NFTAppV3.Droid.Resource.Id.action_bar_root;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_spinner = global::NFTAppV3.Droid.Resource.Id.action_bar_spinner;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_subtitle = global::NFTAppV3.Droid.Resource.Id.action_bar_subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_title = global::NFTAppV3.Droid.Resource.Id.action_bar_title;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_container = global::NFTAppV3.Droid.Resource.Id.action_container;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_context_bar = global::NFTAppV3.Droid.Resource.Id.action_context_bar;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_divider = global::NFTAppV3.Droid.Resource.Id.action_divider;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_image = global::NFTAppV3.Droid.Resource.Id.action_image;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_menu_divider = global::NFTAppV3.Droid.Resource.Id.action_menu_divider;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_menu_presenter = global::NFTAppV3.Droid.Resource.Id.action_menu_presenter;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_bar = global::NFTAppV3.Droid.Resource.Id.action_mode_bar;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_bar_stub = global::NFTAppV3.Droid.Resource.Id.action_mode_bar_stub;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_close_button = global::NFTAppV3.Droid.Resource.Id.action_mode_close_button;
-			global::SkiaSharp.Views.Forms.Resource.Id.action_text = global::NFTAppV3.Droid.Resource.Id.action_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.activity_chooser_view_content = global::NFTAppV3.Droid.Resource.Id.activity_chooser_view_content;
-			global::SkiaSharp.Views.Forms.Resource.Id.add = global::NFTAppV3.Droid.Resource.Id.add;
-			global::SkiaSharp.Views.Forms.Resource.Id.alertTitle = global::NFTAppV3.Droid.Resource.Id.alertTitle;
-			global::SkiaSharp.Views.Forms.Resource.Id.all = global::NFTAppV3.Droid.Resource.Id.all;
-			global::SkiaSharp.Views.Forms.Resource.Id.ALT = global::NFTAppV3.Droid.Resource.Id.ALT;
-			global::SkiaSharp.Views.Forms.Resource.Id.always = global::NFTAppV3.Droid.Resource.Id.always;
-			global::SkiaSharp.Views.Forms.Resource.Id.async = global::NFTAppV3.Droid.Resource.Id.async;
-			global::SkiaSharp.Views.Forms.Resource.Id.auto = global::NFTAppV3.Droid.Resource.Id.auto;
-			global::SkiaSharp.Views.Forms.Resource.Id.beginning = global::NFTAppV3.Droid.Resource.Id.beginning;
-			global::SkiaSharp.Views.Forms.Resource.Id.blocking = global::NFTAppV3.Droid.Resource.Id.blocking;
-			global::SkiaSharp.Views.Forms.Resource.Id.bottom = global::NFTAppV3.Droid.Resource.Id.bottom;
-			global::SkiaSharp.Views.Forms.Resource.Id.bottomtab_navarea = global::NFTAppV3.Droid.Resource.Id.bottomtab_navarea;
-			global::SkiaSharp.Views.Forms.Resource.Id.bottomtab_tabbar = global::NFTAppV3.Droid.Resource.Id.bottomtab_tabbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_header_text = global::NFTAppV3.Droid.Resource.Id.browser_actions_header_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_items = global::NFTAppV3.Droid.Resource.Id.browser_actions_menu_items;
-			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_item_icon = global::NFTAppV3.Droid.Resource.Id.browser_actions_menu_item_icon;
-			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_item_text = global::NFTAppV3.Droid.Resource.Id.browser_actions_menu_item_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_view = global::NFTAppV3.Droid.Resource.Id.browser_actions_menu_view;
-			global::SkiaSharp.Views.Forms.Resource.Id.buttonPanel = global::NFTAppV3.Droid.Resource.Id.buttonPanel;
-			global::SkiaSharp.Views.Forms.Resource.Id.cancel_action = global::NFTAppV3.Droid.Resource.Id.cancel_action;
-			global::SkiaSharp.Views.Forms.Resource.Id.center = global::NFTAppV3.Droid.Resource.Id.center;
-			global::SkiaSharp.Views.Forms.Resource.Id.center_horizontal = global::NFTAppV3.Droid.Resource.Id.center_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Id.center_vertical = global::NFTAppV3.Droid.Resource.Id.center_vertical;
-			global::SkiaSharp.Views.Forms.Resource.Id.checkbox = global::NFTAppV3.Droid.Resource.Id.checkbox;
-			global::SkiaSharp.Views.Forms.Resource.Id.chronometer = global::NFTAppV3.Droid.Resource.Id.chronometer;
-			global::SkiaSharp.Views.Forms.Resource.Id.clip_horizontal = global::NFTAppV3.Droid.Resource.Id.clip_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Id.clip_vertical = global::NFTAppV3.Droid.Resource.Id.clip_vertical;
-			global::SkiaSharp.Views.Forms.Resource.Id.collapseActionView = global::NFTAppV3.Droid.Resource.Id.collapseActionView;
-			global::SkiaSharp.Views.Forms.Resource.Id.container = global::NFTAppV3.Droid.Resource.Id.container;
-			global::SkiaSharp.Views.Forms.Resource.Id.content = global::NFTAppV3.Droid.Resource.Id.content;
-			global::SkiaSharp.Views.Forms.Resource.Id.contentPanel = global::NFTAppV3.Droid.Resource.Id.contentPanel;
-			global::SkiaSharp.Views.Forms.Resource.Id.coordinator = global::NFTAppV3.Droid.Resource.Id.coordinator;
-			global::SkiaSharp.Views.Forms.Resource.Id.CTRL = global::NFTAppV3.Droid.Resource.Id.CTRL;
-			global::SkiaSharp.Views.Forms.Resource.Id.custom = global::NFTAppV3.Droid.Resource.Id.custom;
-			global::SkiaSharp.Views.Forms.Resource.Id.customPanel = global::NFTAppV3.Droid.Resource.Id.customPanel;
-			global::SkiaSharp.Views.Forms.Resource.Id.decor_content_parent = global::NFTAppV3.Droid.Resource.Id.decor_content_parent;
-			global::SkiaSharp.Views.Forms.Resource.Id.default_activity_button = global::NFTAppV3.Droid.Resource.Id.default_activity_button;
-			global::SkiaSharp.Views.Forms.Resource.Id.design_bottom_sheet = global::NFTAppV3.Droid.Resource.Id.design_bottom_sheet;
-			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_action_area = global::NFTAppV3.Droid.Resource.Id.design_menu_item_action_area;
-			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_action_area_stub = global::NFTAppV3.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_text = global::NFTAppV3.Droid.Resource.Id.design_menu_item_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.design_navigation_view = global::NFTAppV3.Droid.Resource.Id.design_navigation_view;
-			global::SkiaSharp.Views.Forms.Resource.Id.disableHome = global::NFTAppV3.Droid.Resource.Id.disableHome;
-			global::SkiaSharp.Views.Forms.Resource.Id.edit_query = global::NFTAppV3.Droid.Resource.Id.edit_query;
-			global::SkiaSharp.Views.Forms.Resource.Id.end = global::NFTAppV3.Droid.Resource.Id.end;
-			global::SkiaSharp.Views.Forms.Resource.Id.end_padder = global::NFTAppV3.Droid.Resource.Id.end_padder;
-			global::SkiaSharp.Views.Forms.Resource.Id.enterAlways = global::NFTAppV3.Droid.Resource.Id.enterAlways;
-			global::SkiaSharp.Views.Forms.Resource.Id.enterAlwaysCollapsed = global::NFTAppV3.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::SkiaSharp.Views.Forms.Resource.Id.exitUntilCollapsed = global::NFTAppV3.Droid.Resource.Id.exitUntilCollapsed;
-			global::SkiaSharp.Views.Forms.Resource.Id.expanded_menu = global::NFTAppV3.Droid.Resource.Id.expanded_menu;
-			global::SkiaSharp.Views.Forms.Resource.Id.expand_activities_button = global::NFTAppV3.Droid.Resource.Id.expand_activities_button;
-			global::SkiaSharp.Views.Forms.Resource.Id.fill = global::NFTAppV3.Droid.Resource.Id.fill;
-			global::SkiaSharp.Views.Forms.Resource.Id.filled = global::NFTAppV3.Droid.Resource.Id.filled;
-			global::SkiaSharp.Views.Forms.Resource.Id.fill_horizontal = global::NFTAppV3.Droid.Resource.Id.fill_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Id.fill_vertical = global::NFTAppV3.Droid.Resource.Id.fill_vertical;
-			global::SkiaSharp.Views.Forms.Resource.Id.@fixed = global::NFTAppV3.Droid.Resource.Id.@fixed;
-			global::SkiaSharp.Views.Forms.Resource.Id.flyoutcontent_appbar = global::NFTAppV3.Droid.Resource.Id.flyoutcontent_appbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.forever = global::NFTAppV3.Droid.Resource.Id.forever;
-			global::SkiaSharp.Views.Forms.Resource.Id.FUNCTION = global::NFTAppV3.Droid.Resource.Id.FUNCTION;
-			global::SkiaSharp.Views.Forms.Resource.Id.ghost_view = global::NFTAppV3.Droid.Resource.Id.ghost_view;
-			global::SkiaSharp.Views.Forms.Resource.Id.group_divider = global::NFTAppV3.Droid.Resource.Id.group_divider;
-			global::SkiaSharp.Views.Forms.Resource.Id.home = global::NFTAppV3.Droid.Resource.Id.home;
-			global::SkiaSharp.Views.Forms.Resource.Id.homeAsUp = global::NFTAppV3.Droid.Resource.Id.homeAsUp;
-			global::SkiaSharp.Views.Forms.Resource.Id.icon = global::NFTAppV3.Droid.Resource.Id.icon;
-			global::SkiaSharp.Views.Forms.Resource.Id.icon_group = global::NFTAppV3.Droid.Resource.Id.icon_group;
-			global::SkiaSharp.Views.Forms.Resource.Id.ifRoom = global::NFTAppV3.Droid.Resource.Id.ifRoom;
-			global::SkiaSharp.Views.Forms.Resource.Id.image = global::NFTAppV3.Droid.Resource.Id.image;
-			global::SkiaSharp.Views.Forms.Resource.Id.info = global::NFTAppV3.Droid.Resource.Id.info;
-			global::SkiaSharp.Views.Forms.Resource.Id.italic = global::NFTAppV3.Droid.Resource.Id.italic;
-			global::SkiaSharp.Views.Forms.Resource.Id.item_touch_helper_previous_elevation = global::NFTAppV3.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Id.labeled = global::NFTAppV3.Droid.Resource.Id.labeled;
-			global::SkiaSharp.Views.Forms.Resource.Id.left = global::NFTAppV3.Droid.Resource.Id.left;
-			global::SkiaSharp.Views.Forms.Resource.Id.line1 = global::NFTAppV3.Droid.Resource.Id.line1;
-			global::SkiaSharp.Views.Forms.Resource.Id.line3 = global::NFTAppV3.Droid.Resource.Id.line3;
-			global::SkiaSharp.Views.Forms.Resource.Id.listMode = global::NFTAppV3.Droid.Resource.Id.listMode;
-			global::SkiaSharp.Views.Forms.Resource.Id.list_item = global::NFTAppV3.Droid.Resource.Id.list_item;
-			global::SkiaSharp.Views.Forms.Resource.Id.main_appbar = global::NFTAppV3.Droid.Resource.Id.main_appbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.main_tablayout = global::NFTAppV3.Droid.Resource.Id.main_tablayout;
-			global::SkiaSharp.Views.Forms.Resource.Id.main_toolbar = global::NFTAppV3.Droid.Resource.Id.main_toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.main_viewpager = global::NFTAppV3.Droid.Resource.Id.main_viewpager;
-			global::SkiaSharp.Views.Forms.Resource.Id.masked = global::NFTAppV3.Droid.Resource.Id.masked;
-			global::SkiaSharp.Views.Forms.Resource.Id.media_actions = global::NFTAppV3.Droid.Resource.Id.media_actions;
-			global::SkiaSharp.Views.Forms.Resource.Id.message = global::NFTAppV3.Droid.Resource.Id.message;
-			global::SkiaSharp.Views.Forms.Resource.Id.META = global::NFTAppV3.Droid.Resource.Id.META;
-			global::SkiaSharp.Views.Forms.Resource.Id.middle = global::NFTAppV3.Droid.Resource.Id.middle;
-			global::SkiaSharp.Views.Forms.Resource.Id.mini = global::NFTAppV3.Droid.Resource.Id.mini;
-			global::SkiaSharp.Views.Forms.Resource.Id.mtrl_child_content_container = global::NFTAppV3.Droid.Resource.Id.mtrl_child_content_container;
-			global::SkiaSharp.Views.Forms.Resource.Id.mtrl_internal_children_alpha_tag = global::NFTAppV3.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
-			global::SkiaSharp.Views.Forms.Resource.Id.multiply = global::NFTAppV3.Droid.Resource.Id.multiply;
-			global::SkiaSharp.Views.Forms.Resource.Id.navigation_header_container = global::NFTAppV3.Droid.Resource.Id.navigation_header_container;
-			global::SkiaSharp.Views.Forms.Resource.Id.never = global::NFTAppV3.Droid.Resource.Id.never;
-			global::SkiaSharp.Views.Forms.Resource.Id.none = global::NFTAppV3.Droid.Resource.Id.none;
-			global::SkiaSharp.Views.Forms.Resource.Id.normal = global::NFTAppV3.Droid.Resource.Id.normal;
-			global::SkiaSharp.Views.Forms.Resource.Id.notification_background = global::NFTAppV3.Droid.Resource.Id.notification_background;
-			global::SkiaSharp.Views.Forms.Resource.Id.notification_main_column = global::NFTAppV3.Droid.Resource.Id.notification_main_column;
-			global::SkiaSharp.Views.Forms.Resource.Id.notification_main_column_container = global::NFTAppV3.Droid.Resource.Id.notification_main_column_container;
-			global::SkiaSharp.Views.Forms.Resource.Id.outline = global::NFTAppV3.Droid.Resource.Id.outline;
-			global::SkiaSharp.Views.Forms.Resource.Id.parallax = global::NFTAppV3.Droid.Resource.Id.parallax;
-			global::SkiaSharp.Views.Forms.Resource.Id.parentPanel = global::NFTAppV3.Droid.Resource.Id.parentPanel;
-			global::SkiaSharp.Views.Forms.Resource.Id.parent_matrix = global::NFTAppV3.Droid.Resource.Id.parent_matrix;
-			global::SkiaSharp.Views.Forms.Resource.Id.pin = global::NFTAppV3.Droid.Resource.Id.pin;
-			global::SkiaSharp.Views.Forms.Resource.Id.progress_circular = global::NFTAppV3.Droid.Resource.Id.progress_circular;
-			global::SkiaSharp.Views.Forms.Resource.Id.progress_horizontal = global::NFTAppV3.Droid.Resource.Id.progress_horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Id.radio = global::NFTAppV3.Droid.Resource.Id.radio;
-			global::SkiaSharp.Views.Forms.Resource.Id.right = global::NFTAppV3.Droid.Resource.Id.right;
-			global::SkiaSharp.Views.Forms.Resource.Id.right_icon = global::NFTAppV3.Droid.Resource.Id.right_icon;
-			global::SkiaSharp.Views.Forms.Resource.Id.right_side = global::NFTAppV3.Droid.Resource.Id.right_side;
-			global::SkiaSharp.Views.Forms.Resource.Id.save_non_transition_alpha = global::NFTAppV3.Droid.Resource.Id.save_non_transition_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Id.screen = global::NFTAppV3.Droid.Resource.Id.screen;
-			global::SkiaSharp.Views.Forms.Resource.Id.scroll = global::NFTAppV3.Droid.Resource.Id.scroll;
-			global::SkiaSharp.Views.Forms.Resource.Id.scrollable = global::NFTAppV3.Droid.Resource.Id.scrollable;
-			global::SkiaSharp.Views.Forms.Resource.Id.scrollIndicatorDown = global::NFTAppV3.Droid.Resource.Id.scrollIndicatorDown;
-			global::SkiaSharp.Views.Forms.Resource.Id.scrollIndicatorUp = global::NFTAppV3.Droid.Resource.Id.scrollIndicatorUp;
-			global::SkiaSharp.Views.Forms.Resource.Id.scrollView = global::NFTAppV3.Droid.Resource.Id.scrollView;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_badge = global::NFTAppV3.Droid.Resource.Id.search_badge;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_bar = global::NFTAppV3.Droid.Resource.Id.search_bar;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_button = global::NFTAppV3.Droid.Resource.Id.search_button;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_close_btn = global::NFTAppV3.Droid.Resource.Id.search_close_btn;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_edit_frame = global::NFTAppV3.Droid.Resource.Id.search_edit_frame;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_go_btn = global::NFTAppV3.Droid.Resource.Id.search_go_btn;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_mag_icon = global::NFTAppV3.Droid.Resource.Id.search_mag_icon;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_plate = global::NFTAppV3.Droid.Resource.Id.search_plate;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_src_text = global::NFTAppV3.Droid.Resource.Id.search_src_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.search_voice_btn = global::NFTAppV3.Droid.Resource.Id.search_voice_btn;
-			global::SkiaSharp.Views.Forms.Resource.Id.selected = global::NFTAppV3.Droid.Resource.Id.selected;
-			global::SkiaSharp.Views.Forms.Resource.Id.select_dialog_listview = global::NFTAppV3.Droid.Resource.Id.select_dialog_listview;
-			global::SkiaSharp.Views.Forms.Resource.Id.shellcontent_appbar = global::NFTAppV3.Droid.Resource.Id.shellcontent_appbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.shellcontent_toolbar = global::NFTAppV3.Droid.Resource.Id.shellcontent_toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Id.SHIFT = global::NFTAppV3.Droid.Resource.Id.SHIFT;
-			global::SkiaSharp.Views.Forms.Resource.Id.shortcut = global::NFTAppV3.Droid.Resource.Id.shortcut;
-			global::SkiaSharp.Views.Forms.Resource.Id.showCustom = global::NFTAppV3.Droid.Resource.Id.showCustom;
-			global::SkiaSharp.Views.Forms.Resource.Id.showHome = global::NFTAppV3.Droid.Resource.Id.showHome;
-			global::SkiaSharp.Views.Forms.Resource.Id.showTitle = global::NFTAppV3.Droid.Resource.Id.showTitle;
-			global::SkiaSharp.Views.Forms.Resource.Id.snackbar_action = global::NFTAppV3.Droid.Resource.Id.snackbar_action;
-			global::SkiaSharp.Views.Forms.Resource.Id.snackbar_text = global::NFTAppV3.Droid.Resource.Id.snackbar_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.snap = global::NFTAppV3.Droid.Resource.Id.snap;
-			global::SkiaSharp.Views.Forms.Resource.Id.snapMargins = global::NFTAppV3.Droid.Resource.Id.snapMargins;
-			global::SkiaSharp.Views.Forms.Resource.Id.spacer = global::NFTAppV3.Droid.Resource.Id.spacer;
-			global::SkiaSharp.Views.Forms.Resource.Id.split_action_bar = global::NFTAppV3.Droid.Resource.Id.split_action_bar;
-			global::SkiaSharp.Views.Forms.Resource.Id.src_atop = global::NFTAppV3.Droid.Resource.Id.src_atop;
-			global::SkiaSharp.Views.Forms.Resource.Id.src_in = global::NFTAppV3.Droid.Resource.Id.src_in;
-			global::SkiaSharp.Views.Forms.Resource.Id.src_over = global::NFTAppV3.Droid.Resource.Id.src_over;
-			global::SkiaSharp.Views.Forms.Resource.Id.start = global::NFTAppV3.Droid.Resource.Id.start;
-			global::SkiaSharp.Views.Forms.Resource.Id.status_bar_latest_event_content = global::NFTAppV3.Droid.Resource.Id.status_bar_latest_event_content;
-			global::SkiaSharp.Views.Forms.Resource.Id.stretch = global::NFTAppV3.Droid.Resource.Id.stretch;
-			global::SkiaSharp.Views.Forms.Resource.Id.submenuarrow = global::NFTAppV3.Droid.Resource.Id.submenuarrow;
-			global::SkiaSharp.Views.Forms.Resource.Id.submit_area = global::NFTAppV3.Droid.Resource.Id.submit_area;
-			global::SkiaSharp.Views.Forms.Resource.Id.SYM = global::NFTAppV3.Droid.Resource.Id.SYM;
-			global::SkiaSharp.Views.Forms.Resource.Id.tabMode = global::NFTAppV3.Droid.Resource.Id.tabMode;
-			global::SkiaSharp.Views.Forms.Resource.Id.tag_transition_group = global::NFTAppV3.Droid.Resource.Id.tag_transition_group;
-			global::SkiaSharp.Views.Forms.Resource.Id.tag_unhandled_key_event_manager = global::NFTAppV3.Droid.Resource.Id.tag_unhandled_key_event_manager;
-			global::SkiaSharp.Views.Forms.Resource.Id.tag_unhandled_key_listeners = global::NFTAppV3.Droid.Resource.Id.tag_unhandled_key_listeners;
-			global::SkiaSharp.Views.Forms.Resource.Id.text = global::NFTAppV3.Droid.Resource.Id.text;
-			global::SkiaSharp.Views.Forms.Resource.Id.text2 = global::NFTAppV3.Droid.Resource.Id.text2;
-			global::SkiaSharp.Views.Forms.Resource.Id.textinput_counter = global::NFTAppV3.Droid.Resource.Id.textinput_counter;
-			global::SkiaSharp.Views.Forms.Resource.Id.textinput_error = global::NFTAppV3.Droid.Resource.Id.textinput_error;
-			global::SkiaSharp.Views.Forms.Resource.Id.textinput_helper_text = global::NFTAppV3.Droid.Resource.Id.textinput_helper_text;
-			global::SkiaSharp.Views.Forms.Resource.Id.textSpacerNoButtons = global::NFTAppV3.Droid.Resource.Id.textSpacerNoButtons;
-			global::SkiaSharp.Views.Forms.Resource.Id.textSpacerNoTitle = global::NFTAppV3.Droid.Resource.Id.textSpacerNoTitle;
-			global::SkiaSharp.Views.Forms.Resource.Id.textStart = global::NFTAppV3.Droid.Resource.Id.textStart;
-			global::SkiaSharp.Views.Forms.Resource.Id.time = global::NFTAppV3.Droid.Resource.Id.time;
-			global::SkiaSharp.Views.Forms.Resource.Id.title = global::NFTAppV3.Droid.Resource.Id.title;
-			global::SkiaSharp.Views.Forms.Resource.Id.titleDividerNoCustom = global::NFTAppV3.Droid.Resource.Id.titleDividerNoCustom;
-			global::SkiaSharp.Views.Forms.Resource.Id.title_template = global::NFTAppV3.Droid.Resource.Id.title_template;
-			global::SkiaSharp.Views.Forms.Resource.Id.top = global::NFTAppV3.Droid.Resource.Id.top;
-			global::SkiaSharp.Views.Forms.Resource.Id.topPanel = global::NFTAppV3.Droid.Resource.Id.topPanel;
-			global::SkiaSharp.Views.Forms.Resource.Id.touch_outside = global::NFTAppV3.Droid.Resource.Id.touch_outside;
-			global::SkiaSharp.Views.Forms.Resource.Id.transition_current_scene = global::NFTAppV3.Droid.Resource.Id.transition_current_scene;
-			global::SkiaSharp.Views.Forms.Resource.Id.transition_layout_save = global::NFTAppV3.Droid.Resource.Id.transition_layout_save;
-			global::SkiaSharp.Views.Forms.Resource.Id.transition_position = global::NFTAppV3.Droid.Resource.Id.transition_position;
-			global::SkiaSharp.Views.Forms.Resource.Id.transition_scene_layoutid_cache = global::NFTAppV3.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::SkiaSharp.Views.Forms.Resource.Id.transition_transform = global::NFTAppV3.Droid.Resource.Id.transition_transform;
-			global::SkiaSharp.Views.Forms.Resource.Id.uniform = global::NFTAppV3.Droid.Resource.Id.uniform;
-			global::SkiaSharp.Views.Forms.Resource.Id.unlabeled = global::NFTAppV3.Droid.Resource.Id.unlabeled;
-			global::SkiaSharp.Views.Forms.Resource.Id.up = global::NFTAppV3.Droid.Resource.Id.up;
-			global::SkiaSharp.Views.Forms.Resource.Id.useLogo = global::NFTAppV3.Droid.Resource.Id.useLogo;
-			global::SkiaSharp.Views.Forms.Resource.Id.view_offset_helper = global::NFTAppV3.Droid.Resource.Id.view_offset_helper;
-			global::SkiaSharp.Views.Forms.Resource.Id.visible = global::NFTAppV3.Droid.Resource.Id.visible;
-			global::SkiaSharp.Views.Forms.Resource.Id.withText = global::NFTAppV3.Droid.Resource.Id.withText;
-			global::SkiaSharp.Views.Forms.Resource.Id.wrap_content = global::NFTAppV3.Droid.Resource.Id.wrap_content;
-			global::SkiaSharp.Views.Forms.Resource.Integer.abc_config_activityDefaultDur = global::NFTAppV3.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::SkiaSharp.Views.Forms.Resource.Integer.abc_config_activityShortDur = global::NFTAppV3.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::SkiaSharp.Views.Forms.Resource.Integer.app_bar_elevation_anim_duration = global::NFTAppV3.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::SkiaSharp.Views.Forms.Resource.Integer.bottom_sheet_slide_duration = global::NFTAppV3.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::SkiaSharp.Views.Forms.Resource.Integer.cancel_button_image_alpha = global::NFTAppV3.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Integer.config_tooltipAnimTime = global::NFTAppV3.Droid.Resource.Integer.config_tooltipAnimTime;
-			global::SkiaSharp.Views.Forms.Resource.Integer.design_snackbar_text_max_lines = global::NFTAppV3.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::SkiaSharp.Views.Forms.Resource.Integer.design_tab_indicator_anim_duration_ms = global::NFTAppV3.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
-			global::SkiaSharp.Views.Forms.Resource.Integer.hide_password_duration = global::NFTAppV3.Droid.Resource.Integer.hide_password_duration;
-			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_btn_anim_delay_ms = global::NFTAppV3.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
-			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_btn_anim_duration_ms = global::NFTAppV3.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
-			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_chip_anim_duration = global::NFTAppV3.Droid.Resource.Integer.mtrl_chip_anim_duration;
-			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::NFTAppV3.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
-			global::SkiaSharp.Views.Forms.Resource.Integer.show_password_duration = global::NFTAppV3.Droid.Resource.Integer.show_password_duration;
-			global::SkiaSharp.Views.Forms.Resource.Integer.status_bar_notification_info_maxnum = global::NFTAppV3.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_fast_out_linear_in = global::NFTAppV3.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
-			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_fast_out_slow_in = global::NFTAppV3.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
-			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_linear = global::NFTAppV3.Droid.Resource.Interpolator.mtrl_linear;
-			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_linear_out_slow_in = global::NFTAppV3.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_bar_title_item = global::NFTAppV3.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_bar_up_container = global::NFTAppV3.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_menu_item_layout = global::NFTAppV3.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_menu_layout = global::NFTAppV3.Droid.Resource.Layout.abc_action_menu_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_mode_bar = global::NFTAppV3.Droid.Resource.Layout.abc_action_mode_bar;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_mode_close_item_material = global::NFTAppV3.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_activity_chooser_view = global::NFTAppV3.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_activity_chooser_view_list_item = global::NFTAppV3.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_button_bar_material = global::NFTAppV3.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_material = global::NFTAppV3.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_title_material = global::NFTAppV3.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_cascading_menu_item_layout = global::NFTAppV3.Droid.Resource.Layout.abc_cascading_menu_item_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_dialog_title_material = global::NFTAppV3.Droid.Resource.Layout.abc_dialog_title_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_expanded_menu_layout = global::NFTAppV3.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_checkbox = global::NFTAppV3.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_icon = global::NFTAppV3.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_layout = global::NFTAppV3.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_radio = global::NFTAppV3.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_popup_menu_header_item_layout = global::NFTAppV3.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_popup_menu_item_layout = global::NFTAppV3.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_content_include = global::NFTAppV3.Droid.Resource.Layout.abc_screen_content_include;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_simple = global::NFTAppV3.Droid.Resource.Layout.abc_screen_simple;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_simple_overlay_action_mode = global::NFTAppV3.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_toolbar = global::NFTAppV3.Droid.Resource.Layout.abc_screen_toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_search_dropdown_item_icons_2line = global::NFTAppV3.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_search_view = global::NFTAppV3.Droid.Resource.Layout.abc_search_view;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_select_dialog_material = global::NFTAppV3.Droid.Resource.Layout.abc_select_dialog_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.abc_tooltip = global::NFTAppV3.Droid.Resource.Layout.abc_tooltip;
-			global::SkiaSharp.Views.Forms.Resource.Layout.BottomTabLayout = global::NFTAppV3.Droid.Resource.Layout.BottomTabLayout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.browser_actions_context_menu_page = global::NFTAppV3.Droid.Resource.Layout.browser_actions_context_menu_page;
-			global::SkiaSharp.Views.Forms.Resource.Layout.browser_actions_context_menu_row = global::NFTAppV3.Droid.Resource.Layout.browser_actions_context_menu_row;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_bottom_navigation_item = global::NFTAppV3.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_bottom_sheet_dialog = global::NFTAppV3.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_snackbar = global::NFTAppV3.Droid.Resource.Layout.design_layout_snackbar;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_snackbar_include = global::NFTAppV3.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_tab_icon = global::NFTAppV3.Droid.Resource.Layout.design_layout_tab_icon;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_tab_text = global::NFTAppV3.Droid.Resource.Layout.design_layout_tab_text;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_menu_item_action_area = global::NFTAppV3.Droid.Resource.Layout.design_menu_item_action_area;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item = global::NFTAppV3.Droid.Resource.Layout.design_navigation_item;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_header = global::NFTAppV3.Droid.Resource.Layout.design_navigation_item_header;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_separator = global::NFTAppV3.Droid.Resource.Layout.design_navigation_item_separator;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_subheader = global::NFTAppV3.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_menu = global::NFTAppV3.Droid.Resource.Layout.design_navigation_menu;
-			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_menu_item = global::NFTAppV3.Droid.Resource.Layout.design_navigation_menu_item;
-			global::SkiaSharp.Views.Forms.Resource.Layout.FlyoutContent = global::NFTAppV3.Droid.Resource.Layout.FlyoutContent;
-			global::SkiaSharp.Views.Forms.Resource.Layout.mtrl_layout_snackbar = global::NFTAppV3.Droid.Resource.Layout.mtrl_layout_snackbar;
-			global::SkiaSharp.Views.Forms.Resource.Layout.mtrl_layout_snackbar_include = global::NFTAppV3.Droid.Resource.Layout.mtrl_layout_snackbar_include;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_action = global::NFTAppV3.Droid.Resource.Layout.notification_action;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_action_tombstone = global::NFTAppV3.Droid.Resource.Layout.notification_action_tombstone;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_media_action = global::NFTAppV3.Droid.Resource.Layout.notification_media_action;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_media_cancel_action = global::NFTAppV3.Droid.Resource.Layout.notification_media_cancel_action;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media = global::NFTAppV3.Droid.Resource.Layout.notification_template_big_media;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_custom = global::NFTAppV3.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_narrow = global::NFTAppV3.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_narrow_custom = global::NFTAppV3.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_custom_big = global::NFTAppV3.Droid.Resource.Layout.notification_template_custom_big;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_icon_group = global::NFTAppV3.Droid.Resource.Layout.notification_template_icon_group;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_lines_media = global::NFTAppV3.Droid.Resource.Layout.notification_template_lines_media;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_media = global::NFTAppV3.Droid.Resource.Layout.notification_template_media;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_media_custom = global::NFTAppV3.Droid.Resource.Layout.notification_template_media_custom;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_part_chronometer = global::NFTAppV3.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_part_time = global::NFTAppV3.Droid.Resource.Layout.notification_template_part_time;
-			global::SkiaSharp.Views.Forms.Resource.Layout.RootLayout = global::NFTAppV3.Droid.Resource.Layout.RootLayout;
-			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_item_material = global::NFTAppV3.Droid.Resource.Layout.select_dialog_item_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_multichoice_material = global::NFTAppV3.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_singlechoice_material = global::NFTAppV3.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::SkiaSharp.Views.Forms.Resource.Layout.ShellContent = global::NFTAppV3.Droid.Resource.Layout.ShellContent;
-			global::SkiaSharp.Views.Forms.Resource.Layout.support_simple_spinner_dropdown_item = global::NFTAppV3.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_action_bar_home_description = global::NFTAppV3.Droid.Resource.String.abc_action_bar_home_description;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_action_bar_up_description = global::NFTAppV3.Droid.Resource.String.abc_action_bar_up_description;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_action_menu_overflow_description = global::NFTAppV3.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_action_mode_done = global::NFTAppV3.Droid.Resource.String.abc_action_mode_done;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_activitychooserview_choose_application = global::NFTAppV3.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_activity_chooser_view_see_all = global::NFTAppV3.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_capital_off = global::NFTAppV3.Droid.Resource.String.abc_capital_off;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_capital_on = global::NFTAppV3.Droid.Resource.String.abc_capital_on;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_alt_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_alt_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_ctrl_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_delete_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_delete_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_enter_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_enter_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_function_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_function_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_meta_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_meta_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_shift_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_shift_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_space_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_space_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_sym_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_menu_sym_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_prepend_shortcut_label = global::NFTAppV3.Droid.Resource.String.abc_prepend_shortcut_label;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_clear = global::NFTAppV3.Droid.Resource.String.abc_searchview_description_clear;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_query = global::NFTAppV3.Droid.Resource.String.abc_searchview_description_query;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_search = global::NFTAppV3.Droid.Resource.String.abc_searchview_description_search;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_submit = global::NFTAppV3.Droid.Resource.String.abc_searchview_description_submit;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_voice = global::NFTAppV3.Droid.Resource.String.abc_searchview_description_voice;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_search_hint = global::NFTAppV3.Droid.Resource.String.abc_search_hint;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_shareactionprovider_share_with = global::NFTAppV3.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_shareactionprovider_share_with_application = global::NFTAppV3.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::SkiaSharp.Views.Forms.Resource.String.abc_toolbar_collapse_description = global::NFTAppV3.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::SkiaSharp.Views.Forms.Resource.String.appbar_scrolling_view_behavior = global::NFTAppV3.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::SkiaSharp.Views.Forms.Resource.String.bottom_sheet_behavior = global::NFTAppV3.Droid.Resource.String.bottom_sheet_behavior;
-			global::SkiaSharp.Views.Forms.Resource.String.character_counter_content_description = global::NFTAppV3.Droid.Resource.String.character_counter_content_description;
-			global::SkiaSharp.Views.Forms.Resource.String.character_counter_pattern = global::NFTAppV3.Droid.Resource.String.character_counter_pattern;
-			global::SkiaSharp.Views.Forms.Resource.String.fab_transformation_scrim_behavior = global::NFTAppV3.Droid.Resource.String.fab_transformation_scrim_behavior;
-			global::SkiaSharp.Views.Forms.Resource.String.fab_transformation_sheet_behavior = global::NFTAppV3.Droid.Resource.String.fab_transformation_sheet_behavior;
-			global::SkiaSharp.Views.Forms.Resource.String.hide_bottom_view_on_scroll_behavior = global::NFTAppV3.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
-			global::SkiaSharp.Views.Forms.Resource.String.mtrl_chip_close_icon_content_description = global::NFTAppV3.Droid.Resource.String.mtrl_chip_close_icon_content_description;
-			global::SkiaSharp.Views.Forms.Resource.String.password_toggle_content_description = global::NFTAppV3.Droid.Resource.String.password_toggle_content_description;
-			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye = global::NFTAppV3.Droid.Resource.String.path_password_eye;
-			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye_mask_strike_through = global::NFTAppV3.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye_mask_visible = global::NFTAppV3.Droid.Resource.String.path_password_eye_mask_visible;
-			global::SkiaSharp.Views.Forms.Resource.String.path_password_strike_through = global::NFTAppV3.Droid.Resource.String.path_password_strike_through;
-			global::SkiaSharp.Views.Forms.Resource.String.search_menu_title = global::NFTAppV3.Droid.Resource.String.search_menu_title;
-			global::SkiaSharp.Views.Forms.Resource.String.status_bar_notification_info_overflow = global::NFTAppV3.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.AlertDialog_AppCompat = global::NFTAppV3.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.AlertDialog_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_DropDownUp = global::NFTAppV3.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_Tooltip = global::NFTAppV3.Droid.Resource.Style.Animation_AppCompat_Tooltip;
-			global::SkiaSharp.Views.Forms.Resource.Style.Animation_Design_BottomSheetDialog = global::NFTAppV3.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_AlertDialog_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_AlertDialog_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::NFTAppV3.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_Tooltip = global::NFTAppV3.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_CardView = global::NFTAppV3.Droid.Resource.Style.Base_CardView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_DialogWindowTitle_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Button = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::NFTAppV3.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V22_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V22_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V23_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V23_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V26_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::NFTAppV3.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V28_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V28_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V28_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::NFTAppV3.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::NFTAppV3.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::NFTAppV3.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionMode = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Small = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_EditText = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ImageButton = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SearchView = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Spinner = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::NFTAppV3.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_Design_TabLayout = global::NFTAppV3.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_Chip = global::NFTAppV3.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::NFTAppV3.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::NFTAppV3.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.CardView = global::NFTAppV3.Droid.Resource.Style.CardView;
-			global::SkiaSharp.Views.Forms.Resource.Style.CardView_Dark = global::NFTAppV3.Droid.Resource.Style.CardView_Dark;
-			global::SkiaSharp.Views.Forms.Resource.Style.CardView_Light = global::NFTAppV3.Droid.Resource.Style.CardView_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_AppCompat = global::NFTAppV3.Droid.Resource.Style.Platform_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents = global::NFTAppV3.Droid.Resource.Style.Platform_MaterialComponents;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Light = global::NFTAppV3.Droid.Resource.Style.Platform_MaterialComponents_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat = global::NFTAppV3.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::NFTAppV3.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V21_AppCompat = global::NFTAppV3.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V21_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V25_AppCompat = global::NFTAppV3.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V25_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Platform_Widget_AppCompat_Spinner = global::NFTAppV3.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::NFTAppV3.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::NFTAppV3.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::NFTAppV3.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Body1 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Body2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Button = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Caption = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display1 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display3 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display4 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Headline = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Large = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Medium = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Menu = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Small = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Subhead = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Tooltip = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NFTAppV3.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Info = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Media = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Time = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Counter = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Counter_Overflow = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Error = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_HelperText = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_HelperText;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Hint = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Snackbar_Message = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Tab = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Button = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Caption = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Chip = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Overline = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::NFTAppV3.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::NFTAppV3.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NFTAppV3.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_CompactMenu = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design = global::NFTAppV3.Droid.Resource.Style.Theme_Design;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_BottomSheetDialog = global::NFTAppV3.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light = global::NFTAppV3.Droid.Resource.Style.Theme_Design_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::NFTAppV3.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Bridge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_CompactMenu = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::NFTAppV3.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionMode = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActivityChooserView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ButtonBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Borderless = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Colored = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Small = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_EditText = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ImageButton = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_SearchView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListMenuView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListPopupWindow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView_DropDown = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView_Menu = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupMenu = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupWindow = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ProgressBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar_Small = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SearchView = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SeekBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Toolbar = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::NFTAppV3.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Compat_NotificationActionContainer = global::NFTAppV3.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Compat_NotificationActionText = global::NFTAppV3.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_AppBarLayout = global::NFTAppV3.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_BottomNavigationView = global::NFTAppV3.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_BottomSheet_Modal = global::NFTAppV3.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_CollapsingToolbar = global::NFTAppV3.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_FloatingActionButton = global::NFTAppV3.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_NavigationView = global::NFTAppV3.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::NFTAppV3.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_Snackbar = global::NFTAppV3.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_TabLayout = global::NFTAppV3.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_TextInputLayout = global::NFTAppV3.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_Icon = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_CardView = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_CardView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_ChipGroup = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Action = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_NavigationView = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Snackbar = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TabLayout = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Toolbar = global::NFTAppV3.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Support_CoordinatorLayout = global::NFTAppV3.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar = global::NFTAppV3.Droid.Resource.Styleable.ActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBarLayout = global::NFTAppV3.Droid.Resource.Styleable.ActionBarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::NFTAppV3.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_background = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_background;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_backgroundSplit = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_backgroundStacked = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetEnd = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetLeft = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetRight = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetStart = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_customNavigationLayout = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_displayOptions = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_divider = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_divider;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_elevation = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_height = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_height;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_hideOnContentScroll = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_homeAsUpIndicator = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_homeLayout = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_icon = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_icon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_itemPadding = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_logo = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_logo;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_navigationMode = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_popupTheme = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_progressBarPadding = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_progressBarStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_subtitle = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_subtitleTextStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_title = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_title;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_titleTextStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuItemView = global::NFTAppV3.Droid.Resource.Styleable.ActionMenuItemView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuItemView_android_minWidth = global::NFTAppV3.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuView = global::NFTAppV3.Droid.Resource.Styleable.ActionMenuView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode = global::NFTAppV3.Droid.Resource.Styleable.ActionMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_background = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_background;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_backgroundSplit = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_closeItemLayout = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_height = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_height;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_subtitleTextStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_titleTextStyle = global::NFTAppV3.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView = global::NFTAppV3.Droid.Resource.Styleable.ActivityChooserView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::NFTAppV3.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView_initialActivityCount = global::NFTAppV3.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_android_layout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_buttonIconDimen = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_listItemLayout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_listLayout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_showTitle = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::NFTAppV3.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::NFTAppV3.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_liftable = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_lifted = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_background = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_elevation = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_expanded = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_liftOnScroll = global::NFTAppV3.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView = global::NFTAppV3.Droid.Resource.Styleable.AppCompatImageView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_android_src = global::NFTAppV3.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_srcCompat = global::NFTAppV3.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_tint = global::NFTAppV3.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_tintMode = global::NFTAppV3.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar = global::NFTAppV3.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_android_thumb = global::NFTAppV3.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMark = global::NFTAppV3.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::NFTAppV3.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::NFTAppV3.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_android_textAppearance = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_fontFamily = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_lineHeight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_textAllCaps = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarDivider = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarSize = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_checkboxStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorAccent = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlActivated = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlNormal = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorError = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorError;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorPrimary = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_controlBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dividerVertical = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextColor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_searchViewStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_seekBarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_spinnerStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_switchStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_toolbarStyle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionBar = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowNoTitle = global::NFTAppV3.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_backgroundTint = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleMargin = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_hideOnScroll = global::NFTAppV3.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView = global::NFTAppV3.Droid.Resource.Styleable.BottomNavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::NFTAppV3.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout = global::NFTAppV3.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::NFTAppV3.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::NFTAppV3.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::NFTAppV3.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::NFTAppV3.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ButtonBarLayout = global::NFTAppV3.Droid.Resource.Styleable.ButtonBarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ButtonBarLayout_allowStacking = global::NFTAppV3.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView = global::NFTAppV3.Droid.Resource.Styleable.CardView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_android_minHeight = global::NFTAppV3.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_android_minWidth = global::NFTAppV3.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardBackgroundColor = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardCornerRadius = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardElevation = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardElevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardMaxElevation = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardPreventCornerOverlap = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardUseCompatPadding = global::NFTAppV3.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPadding = global::NFTAppV3.Droid.Resource.Styleable.CardView_contentPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingBottom = global::NFTAppV3.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingLeft = global::NFTAppV3.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingRight = global::NFTAppV3.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingTop = global::NFTAppV3.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip = global::NFTAppV3.Droid.Resource.Styleable.Chip;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_checkedChip = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_checkedChip;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacing = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_chipSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacingVertical = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_singleLine = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_singleLine;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_singleSelection = global::NFTAppV3.Droid.Resource.Styleable.ChipGroup_singleSelection;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_checkable = global::NFTAppV3.Droid.Resource.Styleable.Chip_android_checkable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_ellipsize = global::NFTAppV3.Droid.Resource.Styleable.Chip_android_ellipsize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_maxWidth = global::NFTAppV3.Droid.Resource.Styleable.Chip_android_maxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_text = global::NFTAppV3.Droid.Resource.Styleable.Chip_android_text;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_textAppearance = global::NFTAppV3.Droid.Resource.Styleable.Chip_android_textAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIcon = global::NFTAppV3.Droid.Resource.Styleable.Chip_checkedIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIconEnabled = global::NFTAppV3.Droid.Resource.Styleable.Chip_checkedIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIconVisible = global::NFTAppV3.Droid.Resource.Styleable.Chip_checkedIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipBackgroundColor = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipCornerRadius = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipCornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipEndPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIcon = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconEnabled = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconSize = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipIconSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconTint = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconVisible = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipMinHeight = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipMinHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStartPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStrokeColor = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipStrokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStrokeWidth = global::NFTAppV3.Droid.Resource.Styleable.Chip_chipStrokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIcon = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconEnabled = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconEndPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconSize = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconStartPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconTint = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconVisible = global::NFTAppV3.Droid.Resource.Styleable.Chip_closeIconVisible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_hideMotionSpec = global::NFTAppV3.Droid.Resource.Styleable.Chip_hideMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_iconEndPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_iconEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_iconStartPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_iconStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_rippleColor = global::NFTAppV3.Droid.Resource.Styleable.Chip_rippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_showMotionSpec = global::NFTAppV3.Droid.Resource.Styleable.Chip_showMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_textEndPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_textEndPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_textStartPadding = global::NFTAppV3.Droid.Resource.Styleable.Chip_textStartPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_title = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::NFTAppV3.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem = global::NFTAppV3.Droid.Resource.Styleable.ColorStateListItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_alpha = global::NFTAppV3.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_android_alpha = global::NFTAppV3.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_android_color = global::NFTAppV3.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton = global::NFTAppV3.Droid.Resource.Styleable.CompoundButton;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_android_button = global::NFTAppV3.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_buttonTint = global::NFTAppV3.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_buttonTintMode = global::NFTAppV3.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_keylines = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::NFTAppV3.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_barLength = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_color = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_drawableSize = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_spinBars = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_thickness = global::NFTAppV3.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_backgroundTint = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_borderWidth = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_elevation = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_fabCustomSize = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_fabSize = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_maxImageSize = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_rippleColor = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_showMotionSpec = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_useCompatPadding = global::NFTAppV3.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout = global::NFTAppV3.Droid.Resource.Styleable.FlowLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout_itemSpacing = global::NFTAppV3.Droid.Resource.Styleable.FlowLayout_itemSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout_lineSpacing = global::NFTAppV3.Droid.Resource.Styleable.FlowLayout_lineSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily = global::NFTAppV3.Droid.Resource.Styleable.FontFamily;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_font = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_android_font;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontStyle = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontWeight = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_font = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_font;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontStyle = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontWeight = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_ttcIndex = global::NFTAppV3.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderAuthority = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderCerts = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderPackage = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderQuery = global::NFTAppV3.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout = global::NFTAppV3.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::NFTAppV3.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::NFTAppV3.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::NFTAppV3.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor = global::NFTAppV3.Droid.Resource.Styleable.GradientColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem = global::NFTAppV3.Droid.Resource.Styleable.GradientColorItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem_android_color = global::NFTAppV3.Droid.Resource.Styleable.GradientColorItem_android_color;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem_android_offset = global::NFTAppV3.Droid.Resource.Styleable.GradientColorItem_android_offset;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerColor = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_centerColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerX = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_centerX;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerY = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_centerY;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endColor = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_endColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endX = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_endX;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endY = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_endY;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_gradientRadius = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startColor = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_startColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startX = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_startX;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startY = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_startY;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_tileMode = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_tileMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_type = global::NFTAppV3.Droid.Resource.Styleable.GradientColor_android_type;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_gravity = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_orientation = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_divider = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_showDividers = global::NFTAppV3.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow = global::NFTAppV3.Droid.Resource.Styleable.ListPopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::NFTAppV3.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::NFTAppV3.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetBottom = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetLeft = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetRight = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_android_insetRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetTop = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_android_insetTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_backgroundTint = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_backgroundTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_backgroundTintMode = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_cornerRadius = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_cornerRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_icon = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_icon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconGravity = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_iconGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconPadding = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_iconPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconSize = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_iconSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconTint = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_iconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconTintMode = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_iconTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_rippleColor = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_rippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_strokeColor = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_strokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_strokeWidth = global::NFTAppV3.Droid.Resource.Styleable.MaterialButton_strokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView = global::NFTAppV3.Droid.Resource.Styleable.MaterialCardView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView_strokeColor = global::NFTAppV3.Droid.Resource.Styleable.MaterialCardView_strokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView_strokeWidth = global::NFTAppV3.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_checkableBehavior = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_enabled = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_id = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_menuCategory = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_orderInCategory = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_visible = global::NFTAppV3.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem = global::NFTAppV3.Droid.Resource.Styleable.MenuItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionLayout = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionProviderClass = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionViewClass = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_alphabeticModifiers = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_checkable = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_checked = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_enabled = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_icon = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_id = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_id;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_menuCategory = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_numericShortcut = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_onClick = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_orderInCategory = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_title = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_title;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_titleCondensed = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_visible = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_contentDescription = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_contentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_iconTint = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_iconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_iconTintMode = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_iconTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_numericModifiers = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_numericModifiers;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_showAsAction = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_tooltipText = global::NFTAppV3.Droid.Resource.Styleable.MenuItem_tooltipText;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView = global::NFTAppV3.Droid.Resource.Styleable.MenuView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_headerBackground = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_horizontalDivider = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemBackground = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_verticalDivider = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_windowAnimationStyle = global::NFTAppV3.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_preserveIconSpacing = global::NFTAppV3.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_subMenuArrow = global::NFTAppV3.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView = global::NFTAppV3.Droid.Resource.Styleable.NavigationView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_background = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_android_background;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_maxWidth = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_elevation = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_headerLayout = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemBackground = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemHorizontalPadding = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemIconPadding = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemIconPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemIconTint = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemTextColor = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_menu = global::NFTAppV3.Droid.Resource.Styleable.NavigationView_menu;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow = global::NFTAppV3.Droid.Resource.Styleable.PopupWindow;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindowBackgroundState = global::NFTAppV3.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::NFTAppV3.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::NFTAppV3.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_android_popupBackground = global::NFTAppV3.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_overlapAnchor = global::NFTAppV3.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView = global::NFTAppV3.Droid.Resource.Styleable.RecycleListView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::NFTAppV3.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::NFTAppV3.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_android_descendantFocusability = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_android_orientation = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollEnabled = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_layoutManager = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_reverseLayout = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_spanCount = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_stackFromEnd = global::NFTAppV3.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrimInsetsFrameLayout = global::NFTAppV3.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::NFTAppV3.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrollingViewBehavior_Layout = global::NFTAppV3.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::NFTAppV3.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView = global::NFTAppV3.Droid.Resource.Styleable.SearchView;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_focusable = global::NFTAppV3.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_imeOptions = global::NFTAppV3.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_inputType = global::NFTAppV3.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_maxWidth = global::NFTAppV3.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_closeIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_commitIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_defaultQueryHint = global::NFTAppV3.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_goIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_goIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_iconifiedByDefault = global::NFTAppV3.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_layout = global::NFTAppV3.Droid.Resource.Styleable.SearchView_layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_queryBackground = global::NFTAppV3.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_queryHint = global::NFTAppV3.Droid.Resource.Styleable.SearchView_queryHint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_searchHintIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_searchIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_submitBackground = global::NFTAppV3.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_suggestionRowLayout = global::NFTAppV3.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_voiceIcon = global::NFTAppV3.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar = global::NFTAppV3.Droid.Resource.Styleable.Snackbar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout = global::NFTAppV3.Droid.Resource.Styleable.SnackbarLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_android_maxWidth = global::NFTAppV3.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_elevation = global::NFTAppV3.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::NFTAppV3.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar_snackbarButtonStyle = global::NFTAppV3.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar_snackbarStyle = global::NFTAppV3.Droid.Resource.Styleable.Snackbar_snackbarStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner = global::NFTAppV3.Droid.Resource.Styleable.Spinner;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_dropDownWidth = global::NFTAppV3.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_entries = global::NFTAppV3.Droid.Resource.Styleable.Spinner_android_entries;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_popupBackground = global::NFTAppV3.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_prompt = global::NFTAppV3.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_popupTheme = global::NFTAppV3.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawableItem = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawableItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawableItem_android_drawable = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_constantSize = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_dither = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_dither;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_variablePadding = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_visible = global::NFTAppV3.Droid.Resource.Styleable.StateListDrawable_android_visible;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_textOff = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_textOn = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_thumb = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_showText = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_splitTrack = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchMinWidth = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchPadding = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTextPadding = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTint = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTintMode = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_track = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_track;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_trackTint = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_trackTintMode = global::NFTAppV3.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem = global::NFTAppV3.Droid.Resource.Styleable.TabItem;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_icon = global::NFTAppV3.Droid.Resource.Styleable.TabItem_android_icon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_layout = global::NFTAppV3.Droid.Resource.Styleable.TabItem_android_layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_text = global::NFTAppV3.Droid.Resource.Styleable.TabItem_android_text;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout = global::NFTAppV3.Droid.Resource.Styleable.TabLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabBackground = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabContentStart = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabGravity = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIconTint = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIconTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIconTintMode = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicator = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicator;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorColor = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorGravity = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorHeight = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabInlineLabel = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMaxWidth = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMinWidth = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMode = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPadding = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingBottom = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingEnd = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingStart = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingTop = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabRippleColor = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabRippleColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabSelectedTextColor = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabTextColor = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabUnboundedRipple = global::NFTAppV3.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_fontFamily = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowColor = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowDx = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowDy = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowRadius = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColor = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColorHint = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColorLink = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textSize = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textStyle = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_typeface = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_fontFamily = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_fontFamily;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_textAllCaps = global::NFTAppV3.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_android_hint = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_android_textColorHint = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxStrokeColor = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterMaxLength = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_errorEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_errorTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperText = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_helperText;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperTextEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleTint = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::NFTAppV3.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement = global::NFTAppV3.Droid.Resource.Styleable.ThemeEnforcement;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::NFTAppV3.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::NFTAppV3.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar = global::NFTAppV3.Droid.Resource.Styleable.Toolbar;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_android_gravity = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_android_minHeight = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_buttonGravity = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_collapseContentDescription = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_collapseIcon = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetEnd = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetLeft = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetRight = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetStart = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_logo = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_logo;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_logoDescription = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_maxButtonHeight = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_navigationContentDescription = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_navigationIcon = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_popupTheme = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitle = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitleTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitleTextColor = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_title = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_title;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMargin = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginBottom = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginEnd = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMargins = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginStart = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginTop = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleTextAppearance = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleTextColor = global::NFTAppV3.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View = global::NFTAppV3.Droid.Resource.Styleable.View;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper = global::NFTAppV3.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_android_background = global::NFTAppV3.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::NFTAppV3.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::NFTAppV3.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat = global::NFTAppV3.Droid.Resource.Styleable.ViewStubCompat;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_id = global::NFTAppV3.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_inflatedId = global::NFTAppV3.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_layout = global::NFTAppV3.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View_android_focusable = global::NFTAppV3.Droid.Resource.Styleable.View_android_focusable;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View_android_theme = global::NFTAppV3.Droid.Resource.Styleable.View_android_theme;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View_paddingEnd = global::NFTAppV3.Droid.Resource.Styleable.View_paddingEnd;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View_paddingStart = global::NFTAppV3.Droid.Resource.Styleable.View_paddingStart;
-			global::SkiaSharp.Views.Forms.Resource.Styleable.View_theme = global::NFTAppV3.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_fade_in = global::NFTAppV3.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_fade_out = global::NFTAppV3.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_grow_fade_in_from_bottom = global::NFTAppV3.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -25478,502 +22996,505 @@ namespace NFTAppV3.Droid
 			public const int image = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int immediateStop = 2131230944;
+			public const int imageView = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int included = 2131230945;
+			public const int immediateStop = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int info = 2131230946;
+			public const int included = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int invisible = 2131230947;
+			public const int info = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int inward = 2131230948;
+			public const int invisible = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int italic = 2131230949;
+			public const int inward = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int item_touch_helper_previous_elevation = 2131230950;
+			public const int italic = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int jumpToEnd = 2131230951;
+			public const int item_touch_helper_previous_elevation = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int jumpToStart = 2131230952;
+			public const int jumpToEnd = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int labeled = 2131230953;
+			public const int jumpToStart = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int layout = 2131230954;
+			public const int labeled = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int left = 2131230955;
+			public const int layout = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int leftToRight = 2131230956;
+			public const int left = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int legacy = 2131230957;
+			public const int leftToRight = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int line1 = 2131230958;
+			public const int legacy = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int line3 = 2131230959;
+			public const int line1 = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int linear = 2131230960;
+			public const int line3 = 2131230960;
 			
 			// aapt resource value: 0x7F0800F1
-			public const int listMode = 2131230961;
+			public const int linear = 2131230961;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int list_item = 2131230962;
+			public const int listMode = 2131230962;
 			
 			// aapt resource value: 0x7F0800F3
-			public const int main_appbar = 2131230963;
+			public const int list_item = 2131230963;
 			
 			// aapt resource value: 0x7F0800F4
-			public const int main_tablayout = 2131230964;
+			public const int main_appbar = 2131230964;
 			
 			// aapt resource value: 0x7F0800F5
-			public const int main_toolbar = 2131230965;
+			public const int main_tablayout = 2131230965;
 			
 			// aapt resource value: 0x7F0800F6
-			public const int main_viewpager = 2131230966;
+			public const int main_toolbar = 2131230966;
 			
 			// aapt resource value: 0x7F0800F7
-			public const int masked = 2131230967;
+			public const int main_viewpager = 2131230967;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int match_constraint = 2131230968;
+			public const int masked = 2131230968;
 			
 			// aapt resource value: 0x7F0800F9
-			public const int match_parent = 2131230969;
+			public const int match_constraint = 2131230969;
 			
 			// aapt resource value: 0x7F0800FA
-			public const int material_clock_display = 2131230970;
+			public const int match_parent = 2131230970;
 			
 			// aapt resource value: 0x7F0800FB
-			public const int material_clock_face = 2131230971;
+			public const int material_clock_display = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int material_clock_hand = 2131230972;
+			public const int material_clock_face = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int material_clock_period_am_button = 2131230973;
+			public const int material_clock_hand = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int material_clock_period_pm_button = 2131230974;
+			public const int material_clock_period_am_button = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int material_clock_period_toggle = 2131230975;
+			public const int material_clock_period_pm_button = 2131230975;
 			
 			// aapt resource value: 0x7F080100
-			public const int material_hour_text_input = 2131230976;
+			public const int material_clock_period_toggle = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int material_hour_tv = 2131230977;
+			public const int material_hour_text_input = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int material_label = 2131230978;
+			public const int material_hour_tv = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int material_minute_text_input = 2131230979;
+			public const int material_label = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int material_minute_tv = 2131230980;
+			public const int material_minute_text_input = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int material_textinput_timepicker = 2131230981;
+			public const int material_minute_tv = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int material_timepicker_cancel_button = 2131230982;
+			public const int material_textinput_timepicker = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int material_timepicker_container = 2131230983;
+			public const int material_timepicker_cancel_button = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int material_timepicker_edit_text = 2131230984;
+			public const int material_timepicker_container = 2131230984;
 			
 			// aapt resource value: 0x7F080109
-			public const int material_timepicker_mode_button = 2131230985;
+			public const int material_timepicker_edit_text = 2131230985;
 			
 			// aapt resource value: 0x7F08010A
-			public const int material_timepicker_ok_button = 2131230986;
+			public const int material_timepicker_mode_button = 2131230986;
 			
 			// aapt resource value: 0x7F08010B
-			public const int material_timepicker_view = 2131230987;
+			public const int material_timepicker_ok_button = 2131230987;
 			
 			// aapt resource value: 0x7F08010C
-			public const int material_value_index = 2131230988;
+			public const int material_timepicker_view = 2131230988;
 			
 			// aapt resource value: 0x7F08010D
-			public const int media_actions = 2131230989;
+			public const int material_value_index = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int media_controller_compat_view_tag = 2131230990;
+			public const int media_actions = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int message = 2131230991;
+			public const int media_controller_compat_view_tag = 2131230991;
+			
+			// aapt resource value: 0x7F080110
+			public const int message = 2131230992;
 			
 			// aapt resource value: 0x7F080005
 			public const int META = 2131230725;
 			
-			// aapt resource value: 0x7F080110
-			public const int middle = 2131230992;
-			
 			// aapt resource value: 0x7F080111
-			public const int mini = 2131230993;
+			public const int middle = 2131230993;
 			
 			// aapt resource value: 0x7F080112
-			public const int month_grid = 2131230994;
+			public const int mini = 2131230994;
 			
 			// aapt resource value: 0x7F080113
-			public const int month_navigation_bar = 2131230995;
+			public const int month_grid = 2131230995;
 			
 			// aapt resource value: 0x7F080114
-			public const int month_navigation_fragment_toggle = 2131230996;
+			public const int month_navigation_bar = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int month_navigation_next = 2131230997;
+			public const int month_navigation_fragment_toggle = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int month_navigation_previous = 2131230998;
+			public const int month_navigation_next = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int month_title = 2131230999;
+			public const int month_navigation_previous = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int motion_base = 2131231000;
+			public const int month_title = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int mtrl_anchor_parent = 2131231001;
-			
-			// aapt resource value: 0x7F08011B
-			public const int mtrl_calendar_days_of_week = 2131231003;
+			public const int motion_base = 2131231001;
 			
 			// aapt resource value: 0x7F08011A
-			public const int mtrl_calendar_day_selector_frame = 2131231002;
+			public const int mtrl_anchor_parent = 2131231002;
 			
 			// aapt resource value: 0x7F08011C
-			public const int mtrl_calendar_frame = 2131231004;
+			public const int mtrl_calendar_days_of_week = 2131231004;
+			
+			// aapt resource value: 0x7F08011B
+			public const int mtrl_calendar_day_selector_frame = 2131231003;
 			
 			// aapt resource value: 0x7F08011D
-			public const int mtrl_calendar_main_pane = 2131231005;
+			public const int mtrl_calendar_frame = 2131231005;
 			
 			// aapt resource value: 0x7F08011E
-			public const int mtrl_calendar_months = 2131231006;
+			public const int mtrl_calendar_main_pane = 2131231006;
 			
 			// aapt resource value: 0x7F08011F
-			public const int mtrl_calendar_selection_frame = 2131231007;
+			public const int mtrl_calendar_months = 2131231007;
 			
 			// aapt resource value: 0x7F080120
-			public const int mtrl_calendar_text_input_frame = 2131231008;
+			public const int mtrl_calendar_selection_frame = 2131231008;
 			
 			// aapt resource value: 0x7F080121
-			public const int mtrl_calendar_year_selector_frame = 2131231009;
+			public const int mtrl_calendar_text_input_frame = 2131231009;
 			
 			// aapt resource value: 0x7F080122
-			public const int mtrl_card_checked_layer_id = 2131231010;
+			public const int mtrl_calendar_year_selector_frame = 2131231010;
 			
 			// aapt resource value: 0x7F080123
-			public const int mtrl_child_content_container = 2131231011;
+			public const int mtrl_card_checked_layer_id = 2131231011;
 			
 			// aapt resource value: 0x7F080124
-			public const int mtrl_internal_children_alpha_tag = 2131231012;
+			public const int mtrl_child_content_container = 2131231012;
 			
 			// aapt resource value: 0x7F080125
-			public const int mtrl_motion_snapshot_view = 2131231013;
+			public const int mtrl_internal_children_alpha_tag = 2131231013;
 			
 			// aapt resource value: 0x7F080126
-			public const int mtrl_picker_fullscreen = 2131231014;
+			public const int mtrl_motion_snapshot_view = 2131231014;
 			
 			// aapt resource value: 0x7F080127
-			public const int mtrl_picker_header = 2131231015;
+			public const int mtrl_picker_fullscreen = 2131231015;
 			
 			// aapt resource value: 0x7F080128
-			public const int mtrl_picker_header_selection_text = 2131231016;
+			public const int mtrl_picker_header = 2131231016;
 			
 			// aapt resource value: 0x7F080129
-			public const int mtrl_picker_header_title_and_selection = 2131231017;
+			public const int mtrl_picker_header_selection_text = 2131231017;
 			
 			// aapt resource value: 0x7F08012A
-			public const int mtrl_picker_header_toggle = 2131231018;
+			public const int mtrl_picker_header_title_and_selection = 2131231018;
 			
 			// aapt resource value: 0x7F08012B
-			public const int mtrl_picker_text_input_date = 2131231019;
+			public const int mtrl_picker_header_toggle = 2131231019;
 			
 			// aapt resource value: 0x7F08012C
-			public const int mtrl_picker_text_input_range_end = 2131231020;
+			public const int mtrl_picker_text_input_date = 2131231020;
 			
 			// aapt resource value: 0x7F08012D
-			public const int mtrl_picker_text_input_range_start = 2131231021;
+			public const int mtrl_picker_text_input_range_end = 2131231021;
 			
 			// aapt resource value: 0x7F08012E
-			public const int mtrl_picker_title_text = 2131231022;
+			public const int mtrl_picker_text_input_range_start = 2131231022;
 			
 			// aapt resource value: 0x7F08012F
-			public const int mtrl_view_tag_bottom_padding = 2131231023;
+			public const int mtrl_picker_title_text = 2131231023;
 			
 			// aapt resource value: 0x7F080130
-			public const int multiply = 2131231024;
-			
-			// aapt resource value: 0x7F080132
-			public const int navigation_bar_item_icon_view = 2131231026;
-			
-			// aapt resource value: 0x7F080133
-			public const int navigation_bar_item_labels_group = 2131231027;
-			
-			// aapt resource value: 0x7F080134
-			public const int navigation_bar_item_large_label_view = 2131231028;
-			
-			// aapt resource value: 0x7F080135
-			public const int navigation_bar_item_small_label_view = 2131231029;
-			
-			// aapt resource value: 0x7F080136
-			public const int navigation_header_container = 2131231030;
+			public const int mtrl_view_tag_bottom_padding = 2131231024;
 			
 			// aapt resource value: 0x7F080131
-			public const int nav_controller_view_tag = 2131231025;
+			public const int multiply = 2131231025;
+			
+			// aapt resource value: 0x7F080133
+			public const int navigation_bar_item_icon_view = 2131231027;
+			
+			// aapt resource value: 0x7F080134
+			public const int navigation_bar_item_labels_group = 2131231028;
+			
+			// aapt resource value: 0x7F080135
+			public const int navigation_bar_item_large_label_view = 2131231029;
+			
+			// aapt resource value: 0x7F080136
+			public const int navigation_bar_item_small_label_view = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int never = 2131231031;
+			public const int navigation_header_container = 2131231031;
+			
+			// aapt resource value: 0x7F080132
+			public const int nav_controller_view_tag = 2131231026;
 			
 			// aapt resource value: 0x7F080138
-			public const int neverCompleteToEnd = 2131231032;
+			public const int never = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int neverCompleteToStart = 2131231033;
-			
-			// aapt resource value: 0x7F08013C
-			public const int none = 2131231036;
-			
-			// aapt resource value: 0x7F08013D
-			public const int normal = 2131231037;
-			
-			// aapt resource value: 0x7F08013E
-			public const int north = 2131231038;
+			public const int neverCompleteToEnd = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int noScroll = 2131231034;
+			public const int neverCompleteToStart = 2131231034;
 			
-			// aapt resource value: 0x7F08013B
-			public const int noState = 2131231035;
+			// aapt resource value: 0x7F08013D
+			public const int none = 2131231037;
+			
+			// aapt resource value: 0x7F08013E
+			public const int normal = 2131231038;
 			
 			// aapt resource value: 0x7F08013F
-			public const int notification_background = 2131231039;
+			public const int north = 2131231039;
+			
+			// aapt resource value: 0x7F08013B
+			public const int noScroll = 2131231035;
+			
+			// aapt resource value: 0x7F08013C
+			public const int noState = 2131231036;
 			
 			// aapt resource value: 0x7F080140
-			public const int notification_main_column = 2131231040;
+			public const int notification_background = 2131231040;
 			
 			// aapt resource value: 0x7F080141
-			public const int notification_main_column_container = 2131231041;
+			public const int notification_main_column = 2131231041;
+			
+			// aapt resource value: 0x7F080142
+			public const int notification_main_column_container = 2131231042;
 			
 			// aapt resource value: 0x7F080006
 			public const int NO_DEBUG = 2131230726;
 			
-			// aapt resource value: 0x7F080142
-			public const int off = 2131231042;
-			
 			// aapt resource value: 0x7F080143
-			public const int on = 2131231043;
+			public const int off = 2131231043;
 			
 			// aapt resource value: 0x7F080144
-			public const int outline = 2131231044;
+			public const int on = 2131231044;
 			
 			// aapt resource value: 0x7F080145
-			public const int outward = 2131231045;
+			public const int outline = 2131231045;
 			
 			// aapt resource value: 0x7F080146
-			public const int overshoot = 2131231046;
+			public const int outward = 2131231046;
 			
 			// aapt resource value: 0x7F080147
-			public const int packed = 2131231047;
+			public const int overshoot = 2131231047;
 			
 			// aapt resource value: 0x7F080148
-			public const int parallax = 2131231048;
+			public const int packed = 2131231048;
 			
 			// aapt resource value: 0x7F080149
-			public const int parent = 2131231049;
+			public const int parallax = 2131231049;
 			
 			// aapt resource value: 0x7F08014A
-			public const int parentPanel = 2131231050;
+			public const int parent = 2131231050;
 			
 			// aapt resource value: 0x7F08014B
-			public const int parentRelative = 2131231051;
+			public const int parentPanel = 2131231051;
 			
 			// aapt resource value: 0x7F08014C
-			public const int parent_matrix = 2131231052;
+			public const int parentRelative = 2131231052;
 			
 			// aapt resource value: 0x7F08014D
-			public const int password_toggle = 2131231053;
+			public const int parent_matrix = 2131231053;
 			
 			// aapt resource value: 0x7F08014E
-			public const int path = 2131231054;
+			public const int password_toggle = 2131231054;
 			
 			// aapt resource value: 0x7F08014F
-			public const int pathRelative = 2131231055;
+			public const int path = 2131231055;
 			
 			// aapt resource value: 0x7F080150
-			public const int peekHeight = 2131231056;
+			public const int pathRelative = 2131231056;
 			
 			// aapt resource value: 0x7F080151
-			public const int percent = 2131231057;
+			public const int peekHeight = 2131231057;
 			
 			// aapt resource value: 0x7F080152
-			public const int pin = 2131231058;
+			public const int percent = 2131231058;
 			
 			// aapt resource value: 0x7F080153
-			public const int position = 2131231059;
+			public const int pin = 2131231059;
 			
 			// aapt resource value: 0x7F080154
-			public const int postLayout = 2131231060;
+			public const int position = 2131231060;
 			
 			// aapt resource value: 0x7F080155
-			public const int progress_circular = 2131231061;
+			public const int postLayout = 2131231061;
 			
 			// aapt resource value: 0x7F080156
-			public const int progress_horizontal = 2131231062;
+			public const int progress_circular = 2131231062;
 			
 			// aapt resource value: 0x7F080157
-			public const int radio = 2131231063;
+			public const int progress_horizontal = 2131231063;
 			
 			// aapt resource value: 0x7F080158
-			public const int ratio = 2131231064;
+			public const int radio = 2131231064;
 			
 			// aapt resource value: 0x7F080159
-			public const int rectangles = 2131231065;
+			public const int ratio = 2131231065;
 			
 			// aapt resource value: 0x7F08015A
-			public const int recycler_view = 2131231066;
+			public const int rectangles = 2131231066;
 			
 			// aapt resource value: 0x7F08015B
-			public const int reverseSawtooth = 2131231067;
+			public const int recycler_view = 2131231067;
 			
 			// aapt resource value: 0x7F08015C
-			public const int right = 2131231068;
+			public const int reverseSawtooth = 2131231068;
 			
 			// aapt resource value: 0x7F08015D
-			public const int rightToLeft = 2131231069;
+			public const int right = 2131231069;
 			
 			// aapt resource value: 0x7F08015E
-			public const int right_icon = 2131231070;
+			public const int rightToLeft = 2131231070;
 			
 			// aapt resource value: 0x7F08015F
-			public const int right_side = 2131231071;
+			public const int right_icon = 2131231071;
 			
 			// aapt resource value: 0x7F080160
-			public const int rounded = 2131231072;
+			public const int right_side = 2131231072;
 			
 			// aapt resource value: 0x7F080161
-			public const int row_index_key = 2131231073;
+			public const int rounded = 2131231073;
 			
 			// aapt resource value: 0x7F080162
-			public const int save_non_transition_alpha = 2131231074;
+			public const int row_index_key = 2131231074;
 			
 			// aapt resource value: 0x7F080163
-			public const int save_overlay_view = 2131231075;
+			public const int save_non_transition_alpha = 2131231075;
 			
 			// aapt resource value: 0x7F080164
-			public const int sawtooth = 2131231076;
+			public const int save_overlay_view = 2131231076;
 			
 			// aapt resource value: 0x7F080165
-			public const int scale = 2131231077;
+			public const int sawtooth = 2131231077;
 			
 			// aapt resource value: 0x7F080166
-			public const int screen = 2131231078;
+			public const int scale = 2131231078;
 			
 			// aapt resource value: 0x7F080167
-			public const int scroll = 2131231079;
-			
-			// aapt resource value: 0x7F08016B
-			public const int scrollable = 2131231083;
+			public const int screen = 2131231079;
 			
 			// aapt resource value: 0x7F080168
-			public const int scrollIndicatorDown = 2131231080;
-			
-			// aapt resource value: 0x7F080169
-			public const int scrollIndicatorUp = 2131231081;
-			
-			// aapt resource value: 0x7F08016A
-			public const int scrollView = 2131231082;
+			public const int scroll = 2131231080;
 			
 			// aapt resource value: 0x7F08016C
-			public const int search_badge = 2131231084;
+			public const int scrollable = 2131231084;
+			
+			// aapt resource value: 0x7F080169
+			public const int scrollIndicatorDown = 2131231081;
+			
+			// aapt resource value: 0x7F08016A
+			public const int scrollIndicatorUp = 2131231082;
+			
+			// aapt resource value: 0x7F08016B
+			public const int scrollView = 2131231083;
 			
 			// aapt resource value: 0x7F08016D
-			public const int search_bar = 2131231085;
+			public const int search_badge = 2131231085;
 			
 			// aapt resource value: 0x7F08016E
-			public const int search_button = 2131231086;
+			public const int search_bar = 2131231086;
 			
 			// aapt resource value: 0x7F08016F
-			public const int search_close_btn = 2131231087;
+			public const int search_button = 2131231087;
 			
 			// aapt resource value: 0x7F080170
-			public const int search_edit_frame = 2131231088;
+			public const int search_close_btn = 2131231088;
 			
 			// aapt resource value: 0x7F080171
-			public const int search_go_btn = 2131231089;
+			public const int search_edit_frame = 2131231089;
 			
 			// aapt resource value: 0x7F080172
-			public const int search_mag_icon = 2131231090;
+			public const int search_go_btn = 2131231090;
 			
 			// aapt resource value: 0x7F080173
-			public const int search_plate = 2131231091;
+			public const int search_mag_icon = 2131231091;
 			
 			// aapt resource value: 0x7F080174
-			public const int search_src_text = 2131231092;
+			public const int search_plate = 2131231092;
 			
 			// aapt resource value: 0x7F080175
-			public const int search_voice_btn = 2131231093;
+			public const int search_src_text = 2131231093;
 			
 			// aapt resource value: 0x7F080176
-			public const int seekbar = 2131231094;
+			public const int search_voice_btn = 2131231094;
 			
 			// aapt resource value: 0x7F080177
-			public const int seekbar_value = 2131231095;
-			
-			// aapt resource value: 0x7F080179
-			public const int selected = 2131231097;
-			
-			// aapt resource value: 0x7F08017A
-			public const int selection_type = 2131231098;
+			public const int seekbar = 2131231095;
 			
 			// aapt resource value: 0x7F080178
-			public const int select_dialog_listview = 2131231096;
+			public const int seekbar_value = 2131231096;
+			
+			// aapt resource value: 0x7F08017A
+			public const int selected = 2131231098;
 			
 			// aapt resource value: 0x7F08017B
-			public const int sharedValueSet = 2131231099;
+			public const int selection_type = 2131231099;
+			
+			// aapt resource value: 0x7F080179
+			public const int select_dialog_listview = 2131231097;
 			
 			// aapt resource value: 0x7F08017C
-			public const int sharedValueUnset = 2131231100;
+			public const int sharedValueSet = 2131231100;
 			
 			// aapt resource value: 0x7F08017D
-			public const int shellcontent_appbar = 2131231101;
+			public const int sharedValueUnset = 2131231101;
 			
 			// aapt resource value: 0x7F08017E
-			public const int shellcontent_toolbar = 2131231102;
+			public const int shellcontent_appbar = 2131231102;
+			
+			// aapt resource value: 0x7F08017F
+			public const int shellcontent_toolbar = 2131231103;
 			
 			// aapt resource value: 0x7F080007
 			public const int SHIFT = 2131230727;
 			
-			// aapt resource value: 0x7F08017F
-			public const int shortcut = 2131231103;
-			
 			// aapt resource value: 0x7F080180
-			public const int showCustom = 2131231104;
+			public const int shortcut = 2131231104;
 			
 			// aapt resource value: 0x7F080181
-			public const int showHome = 2131231105;
+			public const int showCustom = 2131231105;
 			
 			// aapt resource value: 0x7F080182
-			public const int showTitle = 2131231106;
+			public const int showHome = 2131231106;
+			
+			// aapt resource value: 0x7F080183
+			public const int showTitle = 2131231107;
 			
 			// aapt resource value: 0x7F080008
 			public const int SHOW_ALL = 2131230728;
@@ -25984,242 +23505,242 @@ namespace NFTAppV3.Droid
 			// aapt resource value: 0x7F08000A
 			public const int SHOW_PROGRESS = 2131230730;
 			
-			// aapt resource value: 0x7F080183
-			public const int sin = 2131231107;
-			
 			// aapt resource value: 0x7F080184
-			public const int skipCollapsed = 2131231108;
+			public const int sin = 2131231108;
 			
 			// aapt resource value: 0x7F080185
-			public const int skipped = 2131231109;
+			public const int skipCollapsed = 2131231109;
 			
 			// aapt resource value: 0x7F080186
-			public const int slide = 2131231110;
+			public const int skipped = 2131231110;
 			
 			// aapt resource value: 0x7F080187
-			public const int sliding_tabs = 2131231111;
+			public const int slide = 2131231111;
 			
 			// aapt resource value: 0x7F080188
-			public const int snackbar_action = 2131231112;
+			public const int sliding_tabs = 2131231112;
 			
 			// aapt resource value: 0x7F080189
-			public const int snackbar_text = 2131231113;
+			public const int snackbar_action = 2131231113;
 			
 			// aapt resource value: 0x7F08018A
-			public const int snap = 2131231114;
+			public const int snackbar_text = 2131231114;
 			
 			// aapt resource value: 0x7F08018B
-			public const int snapMargins = 2131231115;
+			public const int snap = 2131231115;
 			
 			// aapt resource value: 0x7F08018C
-			public const int south = 2131231116;
+			public const int snapMargins = 2131231116;
 			
 			// aapt resource value: 0x7F08018D
-			public const int spacer = 2131231117;
+			public const int south = 2131231117;
 			
 			// aapt resource value: 0x7F08018E
-			public const int special_effects_controller_view_tag = 2131231118;
+			public const int spacer = 2131231118;
 			
 			// aapt resource value: 0x7F08018F
-			public const int spinner = 2131231119;
+			public const int special_effects_controller_view_tag = 2131231119;
 			
 			// aapt resource value: 0x7F080190
-			public const int spline = 2131231120;
+			public const int spinner = 2131231120;
 			
 			// aapt resource value: 0x7F080191
-			public const int split_action_bar = 2131231121;
+			public const int spline = 2131231121;
 			
 			// aapt resource value: 0x7F080192
-			public const int spread = 2131231122;
+			public const int split_action_bar = 2131231122;
 			
 			// aapt resource value: 0x7F080193
-			public const int spread_inside = 2131231123;
+			public const int spread = 2131231123;
 			
 			// aapt resource value: 0x7F080194
-			public const int spring = 2131231124;
+			public const int spread_inside = 2131231124;
 			
 			// aapt resource value: 0x7F080195
-			public const int square = 2131231125;
+			public const int spring = 2131231125;
 			
 			// aapt resource value: 0x7F080196
-			public const int src_atop = 2131231126;
+			public const int square = 2131231126;
 			
 			// aapt resource value: 0x7F080197
-			public const int src_in = 2131231127;
+			public const int src_atop = 2131231127;
 			
 			// aapt resource value: 0x7F080198
-			public const int src_over = 2131231128;
+			public const int src_in = 2131231128;
 			
 			// aapt resource value: 0x7F080199
-			public const int standard = 2131231129;
+			public const int src_over = 2131231129;
 			
 			// aapt resource value: 0x7F08019A
-			public const int start = 2131231130;
+			public const int standard = 2131231130;
 			
 			// aapt resource value: 0x7F08019B
-			public const int startHorizontal = 2131231131;
+			public const int start = 2131231131;
 			
 			// aapt resource value: 0x7F08019C
-			public const int startToEnd = 2131231132;
+			public const int startHorizontal = 2131231132;
 			
 			// aapt resource value: 0x7F08019D
-			public const int startVertical = 2131231133;
+			public const int startToEnd = 2131231133;
 			
 			// aapt resource value: 0x7F08019E
-			public const int staticLayout = 2131231134;
+			public const int startVertical = 2131231134;
 			
 			// aapt resource value: 0x7F08019F
-			public const int staticPostLayout = 2131231135;
+			public const int staticLayout = 2131231135;
 			
 			// aapt resource value: 0x7F0801A0
-			public const int status_bar_latest_event_content = 2131231136;
+			public const int staticPostLayout = 2131231136;
 			
 			// aapt resource value: 0x7F0801A1
-			public const int stop = 2131231137;
+			public const int status_bar_latest_event_content = 2131231137;
 			
 			// aapt resource value: 0x7F0801A2
-			public const int stretch = 2131231138;
+			public const int stop = 2131231138;
 			
 			// aapt resource value: 0x7F0801A3
-			public const int submenuarrow = 2131231139;
+			public const int stretch = 2131231139;
 			
 			// aapt resource value: 0x7F0801A4
-			public const int submit_area = 2131231140;
+			public const int submenuarrow = 2131231140;
 			
 			// aapt resource value: 0x7F0801A5
-			public const int supportScrollUp = 2131231141;
+			public const int submit_area = 2131231141;
 			
 			// aapt resource value: 0x7F0801A6
-			public const int switchWidget = 2131231142;
+			public const int supportScrollUp = 2131231142;
+			
+			// aapt resource value: 0x7F0801A7
+			public const int switchWidget = 2131231143;
 			
 			// aapt resource value: 0x7F08000B
 			public const int SYM = 2131230731;
 			
-			// aapt resource value: 0x7F0801A7
-			public const int tabMode = 2131231143;
-			
 			// aapt resource value: 0x7F0801A8
-			public const int tag_accessibility_actions = 2131231144;
+			public const int tabMode = 2131231144;
 			
 			// aapt resource value: 0x7F0801A9
-			public const int tag_accessibility_clickable_spans = 2131231145;
+			public const int tag_accessibility_actions = 2131231145;
 			
 			// aapt resource value: 0x7F0801AA
-			public const int tag_accessibility_heading = 2131231146;
+			public const int tag_accessibility_clickable_spans = 2131231146;
 			
 			// aapt resource value: 0x7F0801AB
-			public const int tag_accessibility_pane_title = 2131231147;
+			public const int tag_accessibility_heading = 2131231147;
 			
 			// aapt resource value: 0x7F0801AC
-			public const int tag_on_apply_window_listener = 2131231148;
+			public const int tag_accessibility_pane_title = 2131231148;
 			
 			// aapt resource value: 0x7F0801AD
-			public const int tag_on_receive_content_listener = 2131231149;
+			public const int tag_on_apply_window_listener = 2131231149;
 			
 			// aapt resource value: 0x7F0801AE
-			public const int tag_on_receive_content_mime_types = 2131231150;
+			public const int tag_on_receive_content_listener = 2131231150;
 			
 			// aapt resource value: 0x7F0801AF
-			public const int tag_screen_reader_focusable = 2131231151;
+			public const int tag_on_receive_content_mime_types = 2131231151;
 			
 			// aapt resource value: 0x7F0801B0
-			public const int tag_state_description = 2131231152;
+			public const int tag_screen_reader_focusable = 2131231152;
 			
 			// aapt resource value: 0x7F0801B1
-			public const int tag_transition_group = 2131231153;
+			public const int tag_state_description = 2131231153;
 			
 			// aapt resource value: 0x7F0801B2
-			public const int tag_unhandled_key_event_manager = 2131231154;
+			public const int tag_transition_group = 2131231154;
 			
 			// aapt resource value: 0x7F0801B3
-			public const int tag_unhandled_key_listeners = 2131231155;
+			public const int tag_unhandled_key_event_manager = 2131231155;
 			
 			// aapt resource value: 0x7F0801B4
-			public const int tag_window_insets_animation_callback = 2131231156;
+			public const int tag_unhandled_key_listeners = 2131231156;
 			
 			// aapt resource value: 0x7F0801B5
-			public const int test_checkbox_android_button_tint = 2131231157;
+			public const int tag_window_insets_animation_callback = 2131231157;
 			
 			// aapt resource value: 0x7F0801B6
-			public const int test_checkbox_app_button_tint = 2131231158;
+			public const int test_checkbox_android_button_tint = 2131231158;
 			
 			// aapt resource value: 0x7F0801B7
-			public const int test_radiobutton_android_button_tint = 2131231159;
+			public const int test_checkbox_app_button_tint = 2131231159;
 			
 			// aapt resource value: 0x7F0801B8
-			public const int test_radiobutton_app_button_tint = 2131231160;
+			public const int test_radiobutton_android_button_tint = 2131231160;
 			
 			// aapt resource value: 0x7F0801B9
-			public const int text = 2131231161;
+			public const int test_radiobutton_app_button_tint = 2131231161;
 			
 			// aapt resource value: 0x7F0801BA
-			public const int text2 = 2131231162;
+			public const int text = 2131231162;
 			
 			// aapt resource value: 0x7F0801BB
-			public const int textEnd = 2131231163;
-			
-			// aapt resource value: 0x7F0801C3
-			public const int textinput_counter = 2131231171;
-			
-			// aapt resource value: 0x7F0801C4
-			public const int textinput_error = 2131231172;
-			
-			// aapt resource value: 0x7F0801C5
-			public const int textinput_helper_text = 2131231173;
-			
-			// aapt resource value: 0x7F0801C6
-			public const int textinput_placeholder = 2131231174;
-			
-			// aapt resource value: 0x7F0801C7
-			public const int textinput_prefix_text = 2131231175;
-			
-			// aapt resource value: 0x7F0801C8
-			public const int textinput_suffix_text = 2131231176;
+			public const int text2 = 2131231163;
 			
 			// aapt resource value: 0x7F0801BC
-			public const int textSpacerNoButtons = 2131231164;
+			public const int textEnd = 2131231164;
 			
-			// aapt resource value: 0x7F0801BD
-			public const int textSpacerNoTitle = 2131231165;
+			// aapt resource value: 0x7F0801C4
+			public const int textinput_counter = 2131231172;
 			
-			// aapt resource value: 0x7F0801BE
-			public const int textStart = 2131231166;
+			// aapt resource value: 0x7F0801C5
+			public const int textinput_error = 2131231173;
 			
-			// aapt resource value: 0x7F0801BF
-			public const int textTop = 2131231167;
+			// aapt resource value: 0x7F0801C6
+			public const int textinput_helper_text = 2131231174;
 			
-			// aapt resource value: 0x7F0801C0
-			public const int text_input_end_icon = 2131231168;
+			// aapt resource value: 0x7F0801C7
+			public const int textinput_placeholder = 2131231175;
 			
-			// aapt resource value: 0x7F0801C1
-			public const int text_input_error_icon = 2131231169;
-			
-			// aapt resource value: 0x7F0801C2
-			public const int text_input_start_icon = 2131231170;
+			// aapt resource value: 0x7F0801C8
+			public const int textinput_prefix_text = 2131231176;
 			
 			// aapt resource value: 0x7F0801C9
-			public const int time = 2131231177;
+			public const int textinput_suffix_text = 2131231177;
+			
+			// aapt resource value: 0x7F0801BD
+			public const int textSpacerNoButtons = 2131231165;
+			
+			// aapt resource value: 0x7F0801BE
+			public const int textSpacerNoTitle = 2131231166;
+			
+			// aapt resource value: 0x7F0801BF
+			public const int textStart = 2131231167;
+			
+			// aapt resource value: 0x7F0801C0
+			public const int textTop = 2131231168;
+			
+			// aapt resource value: 0x7F0801C1
+			public const int text_input_end_icon = 2131231169;
+			
+			// aapt resource value: 0x7F0801C2
+			public const int text_input_error_icon = 2131231170;
+			
+			// aapt resource value: 0x7F0801C3
+			public const int text_input_start_icon = 2131231171;
 			
 			// aapt resource value: 0x7F0801CA
-			public const int title = 2131231178;
+			public const int time = 2131231178;
 			
 			// aapt resource value: 0x7F0801CB
-			public const int titleDividerNoCustom = 2131231179;
+			public const int title = 2131231179;
 			
 			// aapt resource value: 0x7F0801CC
-			public const int title_template = 2131231180;
+			public const int titleDividerNoCustom = 2131231180;
 			
 			// aapt resource value: 0x7F0801CD
-			public const int toggle = 2131231181;
+			public const int title_template = 2131231181;
 			
 			// aapt resource value: 0x7F0801CE
-			public const int toolbar = 2131231182;
+			public const int toggle = 2131231182;
 			
 			// aapt resource value: 0x7F0801CF
-			public const int top = 2131231183;
+			public const int toolbar = 2131231183;
 			
 			// aapt resource value: 0x7F0801D0
-			public const int topPanel = 2131231184;
+			public const int top = 2131231184;
+			
+			// aapt resource value: 0x7F0801D1
+			public const int topPanel = 2131231185;
 			
 			// aapt resource value: 0x7F08000C
 			public const int TOP_END = 2131230732;
@@ -26227,98 +23748,98 @@ namespace NFTAppV3.Droid
 			// aapt resource value: 0x7F08000D
 			public const int TOP_START = 2131230733;
 			
-			// aapt resource value: 0x7F0801D1
-			public const int touch_outside = 2131231185;
-			
 			// aapt resource value: 0x7F0801D2
-			public const int transitionToEnd = 2131231186;
+			public const int touch_outside = 2131231186;
 			
 			// aapt resource value: 0x7F0801D3
-			public const int transitionToStart = 2131231187;
+			public const int transitionToEnd = 2131231187;
 			
 			// aapt resource value: 0x7F0801D4
-			public const int transition_current_scene = 2131231188;
+			public const int transitionToStart = 2131231188;
 			
 			// aapt resource value: 0x7F0801D5
-			public const int transition_layout_save = 2131231189;
+			public const int transition_current_scene = 2131231189;
 			
 			// aapt resource value: 0x7F0801D6
-			public const int transition_position = 2131231190;
+			public const int transition_layout_save = 2131231190;
 			
 			// aapt resource value: 0x7F0801D7
-			public const int transition_scene_layoutid_cache = 2131231191;
+			public const int transition_position = 2131231191;
 			
 			// aapt resource value: 0x7F0801D8
-			public const int transition_transform = 2131231192;
+			public const int transition_scene_layoutid_cache = 2131231192;
 			
 			// aapt resource value: 0x7F0801D9
-			public const int triangle = 2131231193;
+			public const int transition_transform = 2131231193;
 			
 			// aapt resource value: 0x7F0801DA
-			public const int @unchecked = 2131231194;
+			public const int triangle = 2131231194;
 			
 			// aapt resource value: 0x7F0801DB
-			public const int uniform = 2131231195;
+			public const int @unchecked = 2131231195;
 			
 			// aapt resource value: 0x7F0801DC
-			public const int unlabeled = 2131231196;
+			public const int uniform = 2131231196;
 			
 			// aapt resource value: 0x7F0801DD
-			public const int up = 2131231197;
+			public const int unlabeled = 2131231197;
 			
 			// aapt resource value: 0x7F0801DE
-			public const int useLogo = 2131231198;
+			public const int up = 2131231198;
 			
 			// aapt resource value: 0x7F0801DF
-			public const int vertical_only = 2131231199;
+			public const int useLogo = 2131231199;
 			
 			// aapt resource value: 0x7F0801E0
-			public const int view_offset_helper = 2131231200;
+			public const int vertical_only = 2131231200;
 			
 			// aapt resource value: 0x7F0801E1
-			public const int view_transition = 2131231201;
+			public const int view_offset_helper = 2131231201;
 			
 			// aapt resource value: 0x7F0801E2
-			public const int view_tree_lifecycle_owner = 2131231202;
+			public const int view_transition = 2131231202;
 			
 			// aapt resource value: 0x7F0801E3
-			public const int view_tree_saved_state_registry_owner = 2131231203;
+			public const int view_tree_lifecycle_owner = 2131231203;
 			
 			// aapt resource value: 0x7F0801E4
-			public const int view_tree_view_model_store_owner = 2131231204;
+			public const int view_tree_saved_state_registry_owner = 2131231204;
 			
 			// aapt resource value: 0x7F0801E5
-			public const int visible = 2131231205;
+			public const int view_tree_view_model_store_owner = 2131231205;
 			
 			// aapt resource value: 0x7F0801E6
-			public const int visible_removing_fragment_view_tag = 2131231206;
+			public const int visible = 2131231206;
 			
 			// aapt resource value: 0x7F0801E7
-			public const int west = 2131231207;
-			
-			// aapt resource value: 0x7F0801E9
-			public const int withinBounds = 2131231209;
+			public const int visible_removing_fragment_view_tag = 2131231207;
 			
 			// aapt resource value: 0x7F0801E8
-			public const int withText = 2131231208;
+			public const int west = 2131231208;
 			
 			// aapt resource value: 0x7F0801EA
-			public const int wrap = 2131231210;
+			public const int withinBounds = 2131231210;
+			
+			// aapt resource value: 0x7F0801E9
+			public const int withText = 2131231209;
 			
 			// aapt resource value: 0x7F0801EB
-			public const int wrap_content = 2131231211;
+			public const int wrap = 2131231211;
 			
 			// aapt resource value: 0x7F0801EC
-			public const int wrap_content_constrained = 2131231212;
+			public const int wrap_content = 2131231212;
 			
 			// aapt resource value: 0x7F0801ED
-			public const int x_left = 2131231213;
+			public const int wrap_content_constrained = 2131231213;
 			
 			// aapt resource value: 0x7F0801EE
-			public const int x_right = 2131231214;
+			public const int x_left = 2131231214;
 			
 			// aapt resource value: 0x7F0801EF
-			public const int zero_corner_chip = 2131231215;
+			public const int x_right = 2131231215;
+			
+			// aapt resource value: 0x7F0801F0
+			public const int zero_corner_chip = 2131231216;
 			
 			static Id()
 			{
@@ -26564,370 +24085,376 @@ namespace NFTAppV3.Droid
 			public const int abc_tooltip = 2131427355;
 			
 			// aapt resource value: 0x7F0B001C
-			public const int BottomTabLayout = 2131427356;
+			public const int activity_main = 2131427356;
 			
 			// aapt resource value: 0x7F0B001D
-			public const int browser_actions_context_menu_page = 2131427357;
+			public const int BottomTabLayout = 2131427357;
 			
 			// aapt resource value: 0x7F0B001E
-			public const int browser_actions_context_menu_row = 2131427358;
+			public const int browser_actions_context_menu_page = 2131427358;
 			
 			// aapt resource value: 0x7F0B001F
-			public const int CameraFragment = 2131427359;
+			public const int browser_actions_context_menu_row = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
-			public const int custom_dialog = 2131427360;
+			public const int CameraFragment = 2131427360;
 			
 			// aapt resource value: 0x7F0B0021
-			public const int design_bottom_navigation_item = 2131427361;
+			public const int content_main = 2131427361;
 			
 			// aapt resource value: 0x7F0B0022
-			public const int design_bottom_sheet_dialog = 2131427362;
+			public const int custom_dialog = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int design_layout_snackbar = 2131427363;
+			public const int design_bottom_navigation_item = 2131427363;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_layout_snackbar_include = 2131427364;
+			public const int design_bottom_sheet_dialog = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_layout_tab_icon = 2131427365;
+			public const int design_layout_snackbar = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_layout_tab_text = 2131427366;
+			public const int design_layout_snackbar_include = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_menu_item_action_area = 2131427367;
+			public const int design_layout_tab_icon = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_navigation_item = 2131427368;
+			public const int design_layout_tab_text = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_navigation_item_header = 2131427369;
+			public const int design_menu_item_action_area = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_navigation_item_separator = 2131427370;
+			public const int design_navigation_item = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_item_subheader = 2131427371;
+			public const int design_navigation_item_header = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_navigation_menu = 2131427372;
+			public const int design_navigation_item_separator = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int design_navigation_menu_item = 2131427373;
+			public const int design_navigation_item_subheader = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int design_text_input_end_icon = 2131427374;
+			public const int design_navigation_menu = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int design_text_input_start_icon = 2131427375;
+			public const int design_navigation_menu_item = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int expand_button = 2131427376;
+			public const int design_text_input_end_icon = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int FallbackTabbarDoNotUse = 2131427377;
+			public const int design_text_input_start_icon = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int FallbackToolbarDoNotUse = 2131427378;
+			public const int expand_button = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int FlyoutContent = 2131427379;
+			public const int FallbackTabbarDoNotUse = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int image_frame = 2131427380;
+			public const int FallbackToolbarDoNotUse = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int material_chip_input_combo = 2131427381;
-			
-			// aapt resource value: 0x7F0B003A
-			public const int material_clockface_textview = 2131427386;
-			
-			// aapt resource value: 0x7F0B003B
-			public const int material_clockface_view = 2131427387;
+			public const int FlyoutContent = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int material_clock_display = 2131427382;
+			public const int image_frame = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int material_clock_display_divider = 2131427383;
-			
-			// aapt resource value: 0x7F0B0038
-			public const int material_clock_period_toggle = 2131427384;
-			
-			// aapt resource value: 0x7F0B0039
-			public const int material_clock_period_toggle_land = 2131427385;
+			public const int material_chip_input_combo = 2131427383;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int material_radial_view_group = 2131427388;
+			public const int material_clockface_textview = 2131427388;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int material_textinput_timepicker = 2131427389;
+			public const int material_clockface_view = 2131427389;
 			
-			// aapt resource value: 0x7F0B0040
-			public const int material_timepicker = 2131427392;
+			// aapt resource value: 0x7F0B0038
+			public const int material_clock_display = 2131427384;
 			
-			// aapt resource value: 0x7F0B0041
-			public const int material_timepicker_dialog = 2131427393;
+			// aapt resource value: 0x7F0B0039
+			public const int material_clock_display_divider = 2131427385;
 			
-			// aapt resource value: 0x7F0B0042
-			public const int material_timepicker_textinput_display = 2131427394;
+			// aapt resource value: 0x7F0B003A
+			public const int material_clock_period_toggle = 2131427386;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int material_clock_period_toggle_land = 2131427387;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int material_time_chip = 2131427390;
+			public const int material_radial_view_group = 2131427390;
 			
 			// aapt resource value: 0x7F0B003F
-			public const int material_time_input = 2131427391;
+			public const int material_textinput_timepicker = 2131427391;
+			
+			// aapt resource value: 0x7F0B0042
+			public const int material_timepicker = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int mtrl_alert_dialog = 2131427395;
+			public const int material_timepicker_dialog = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int mtrl_alert_dialog_actions = 2131427396;
+			public const int material_timepicker_textinput_display = 2131427396;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int material_time_chip = 2131427392;
+			
+			// aapt resource value: 0x7F0B0041
+			public const int material_time_input = 2131427393;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int mtrl_alert_dialog_title = 2131427397;
+			public const int mtrl_alert_dialog = 2131427397;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int mtrl_alert_select_dialog_item = 2131427398;
+			public const int mtrl_alert_dialog_actions = 2131427398;
 			
 			// aapt resource value: 0x7F0B0047
-			public const int mtrl_alert_select_dialog_multichoice = 2131427399;
+			public const int mtrl_alert_dialog_title = 2131427399;
 			
 			// aapt resource value: 0x7F0B0048
-			public const int mtrl_alert_select_dialog_singlechoice = 2131427400;
+			public const int mtrl_alert_select_dialog_item = 2131427400;
 			
 			// aapt resource value: 0x7F0B0049
-			public const int mtrl_calendar_day = 2131427401;
-			
-			// aapt resource value: 0x7F0B004B
-			public const int mtrl_calendar_days_of_week = 2131427403;
+			public const int mtrl_alert_select_dialog_multichoice = 2131427401;
 			
 			// aapt resource value: 0x7F0B004A
-			public const int mtrl_calendar_day_of_week = 2131427402;
+			public const int mtrl_alert_select_dialog_singlechoice = 2131427402;
 			
-			// aapt resource value: 0x7F0B004C
-			public const int mtrl_calendar_horizontal = 2131427404;
+			// aapt resource value: 0x7F0B004B
+			public const int mtrl_calendar_day = 2131427403;
 			
 			// aapt resource value: 0x7F0B004D
-			public const int mtrl_calendar_month = 2131427405;
+			public const int mtrl_calendar_days_of_week = 2131427405;
 			
-			// aapt resource value: 0x7F0B0050
-			public const int mtrl_calendar_months = 2131427408;
+			// aapt resource value: 0x7F0B004C
+			public const int mtrl_calendar_day_of_week = 2131427404;
 			
 			// aapt resource value: 0x7F0B004E
-			public const int mtrl_calendar_month_labeled = 2131427406;
+			public const int mtrl_calendar_horizontal = 2131427406;
 			
 			// aapt resource value: 0x7F0B004F
-			public const int mtrl_calendar_month_navigation = 2131427407;
-			
-			// aapt resource value: 0x7F0B0051
-			public const int mtrl_calendar_vertical = 2131427409;
+			public const int mtrl_calendar_month = 2131427407;
 			
 			// aapt resource value: 0x7F0B0052
-			public const int mtrl_calendar_year = 2131427410;
+			public const int mtrl_calendar_months = 2131427410;
+			
+			// aapt resource value: 0x7F0B0050
+			public const int mtrl_calendar_month_labeled = 2131427408;
+			
+			// aapt resource value: 0x7F0B0051
+			public const int mtrl_calendar_month_navigation = 2131427409;
 			
 			// aapt resource value: 0x7F0B0053
-			public const int mtrl_layout_snackbar = 2131427411;
+			public const int mtrl_calendar_vertical = 2131427411;
 			
 			// aapt resource value: 0x7F0B0054
-			public const int mtrl_layout_snackbar_include = 2131427412;
+			public const int mtrl_calendar_year = 2131427412;
 			
 			// aapt resource value: 0x7F0B0055
-			public const int mtrl_navigation_rail_item = 2131427413;
+			public const int mtrl_layout_snackbar = 2131427413;
 			
 			// aapt resource value: 0x7F0B0056
-			public const int mtrl_picker_actions = 2131427414;
+			public const int mtrl_layout_snackbar_include = 2131427414;
 			
 			// aapt resource value: 0x7F0B0057
-			public const int mtrl_picker_dialog = 2131427415;
+			public const int mtrl_navigation_rail_item = 2131427415;
 			
 			// aapt resource value: 0x7F0B0058
-			public const int mtrl_picker_fullscreen = 2131427416;
+			public const int mtrl_picker_actions = 2131427416;
 			
 			// aapt resource value: 0x7F0B0059
-			public const int mtrl_picker_header_dialog = 2131427417;
+			public const int mtrl_picker_dialog = 2131427417;
 			
 			// aapt resource value: 0x7F0B005A
-			public const int mtrl_picker_header_fullscreen = 2131427418;
+			public const int mtrl_picker_fullscreen = 2131427418;
 			
 			// aapt resource value: 0x7F0B005B
-			public const int mtrl_picker_header_selection_text = 2131427419;
+			public const int mtrl_picker_header_dialog = 2131427419;
 			
 			// aapt resource value: 0x7F0B005C
-			public const int mtrl_picker_header_title_text = 2131427420;
+			public const int mtrl_picker_header_fullscreen = 2131427420;
 			
 			// aapt resource value: 0x7F0B005D
-			public const int mtrl_picker_header_toggle = 2131427421;
+			public const int mtrl_picker_header_selection_text = 2131427421;
 			
 			// aapt resource value: 0x7F0B005E
-			public const int mtrl_picker_text_input_date = 2131427422;
+			public const int mtrl_picker_header_title_text = 2131427422;
 			
 			// aapt resource value: 0x7F0B005F
-			public const int mtrl_picker_text_input_date_range = 2131427423;
+			public const int mtrl_picker_header_toggle = 2131427423;
 			
 			// aapt resource value: 0x7F0B0060
-			public const int notification_action = 2131427424;
+			public const int mtrl_picker_text_input_date = 2131427424;
 			
 			// aapt resource value: 0x7F0B0061
-			public const int notification_action_tombstone = 2131427425;
+			public const int mtrl_picker_text_input_date_range = 2131427425;
 			
 			// aapt resource value: 0x7F0B0062
-			public const int notification_media_action = 2131427426;
+			public const int notification_action = 2131427426;
 			
 			// aapt resource value: 0x7F0B0063
-			public const int notification_media_cancel_action = 2131427427;
+			public const int notification_action_tombstone = 2131427427;
 			
 			// aapt resource value: 0x7F0B0064
-			public const int notification_template_big_media = 2131427428;
+			public const int notification_media_action = 2131427428;
 			
 			// aapt resource value: 0x7F0B0065
-			public const int notification_template_big_media_custom = 2131427429;
+			public const int notification_media_cancel_action = 2131427429;
 			
 			// aapt resource value: 0x7F0B0066
-			public const int notification_template_big_media_narrow = 2131427430;
+			public const int notification_template_big_media = 2131427430;
 			
 			// aapt resource value: 0x7F0B0067
-			public const int notification_template_big_media_narrow_custom = 2131427431;
+			public const int notification_template_big_media_custom = 2131427431;
 			
 			// aapt resource value: 0x7F0B0068
-			public const int notification_template_custom_big = 2131427432;
+			public const int notification_template_big_media_narrow = 2131427432;
 			
 			// aapt resource value: 0x7F0B0069
-			public const int notification_template_icon_group = 2131427433;
+			public const int notification_template_big_media_narrow_custom = 2131427433;
 			
 			// aapt resource value: 0x7F0B006A
-			public const int notification_template_lines_media = 2131427434;
+			public const int notification_template_custom_big = 2131427434;
 			
 			// aapt resource value: 0x7F0B006B
-			public const int notification_template_media = 2131427435;
+			public const int notification_template_icon_group = 2131427435;
 			
 			// aapt resource value: 0x7F0B006C
-			public const int notification_template_media_custom = 2131427436;
+			public const int notification_template_lines_media = 2131427436;
 			
 			// aapt resource value: 0x7F0B006D
-			public const int notification_template_part_chronometer = 2131427437;
+			public const int notification_template_media = 2131427437;
 			
 			// aapt resource value: 0x7F0B006E
-			public const int notification_template_part_time = 2131427438;
+			public const int notification_template_media_custom = 2131427438;
 			
 			// aapt resource value: 0x7F0B006F
-			public const int preference = 2131427439;
+			public const int notification_template_part_chronometer = 2131427439;
 			
 			// aapt resource value: 0x7F0B0070
-			public const int preference_category = 2131427440;
+			public const int notification_template_part_time = 2131427440;
 			
 			// aapt resource value: 0x7F0B0071
-			public const int preference_category_material = 2131427441;
+			public const int preference = 2131427441;
 			
 			// aapt resource value: 0x7F0B0072
-			public const int preference_dialog_edittext = 2131427442;
+			public const int preference_category = 2131427442;
 			
 			// aapt resource value: 0x7F0B0073
-			public const int preference_dropdown = 2131427443;
+			public const int preference_category_material = 2131427443;
 			
 			// aapt resource value: 0x7F0B0074
-			public const int preference_dropdown_material = 2131427444;
+			public const int preference_dialog_edittext = 2131427444;
 			
 			// aapt resource value: 0x7F0B0075
-			public const int preference_information = 2131427445;
+			public const int preference_dropdown = 2131427445;
 			
 			// aapt resource value: 0x7F0B0076
-			public const int preference_information_material = 2131427446;
+			public const int preference_dropdown_material = 2131427446;
 			
 			// aapt resource value: 0x7F0B0077
-			public const int preference_list_fragment = 2131427447;
+			public const int preference_information = 2131427447;
 			
 			// aapt resource value: 0x7F0B0078
-			public const int preference_material = 2131427448;
+			public const int preference_information_material = 2131427448;
 			
 			// aapt resource value: 0x7F0B0079
-			public const int preference_recyclerview = 2131427449;
+			public const int preference_list_fragment = 2131427449;
 			
 			// aapt resource value: 0x7F0B007A
-			public const int preference_widget_checkbox = 2131427450;
+			public const int preference_material = 2131427450;
 			
 			// aapt resource value: 0x7F0B007B
-			public const int preference_widget_seekbar = 2131427451;
+			public const int preference_recyclerview = 2131427451;
 			
 			// aapt resource value: 0x7F0B007C
-			public const int preference_widget_seekbar_material = 2131427452;
+			public const int preference_widget_checkbox = 2131427452;
 			
 			// aapt resource value: 0x7F0B007D
-			public const int preference_widget_switch = 2131427453;
+			public const int preference_widget_seekbar = 2131427453;
 			
 			// aapt resource value: 0x7F0B007E
-			public const int preference_widget_switch_compat = 2131427454;
+			public const int preference_widget_seekbar_material = 2131427454;
 			
 			// aapt resource value: 0x7F0B007F
-			public const int RootLayout = 2131427455;
+			public const int preference_widget_switch = 2131427455;
 			
 			// aapt resource value: 0x7F0B0080
-			public const int select_dialog_item_material = 2131427456;
+			public const int preference_widget_switch_compat = 2131427456;
 			
 			// aapt resource value: 0x7F0B0081
-			public const int select_dialog_multichoice_material = 2131427457;
+			public const int RootLayout = 2131427457;
 			
 			// aapt resource value: 0x7F0B0082
-			public const int select_dialog_singlechoice_material = 2131427458;
+			public const int select_dialog_item_material = 2131427458;
 			
 			// aapt resource value: 0x7F0B0083
-			public const int ShellContent = 2131427459;
+			public const int select_dialog_multichoice_material = 2131427459;
 			
 			// aapt resource value: 0x7F0B0084
-			public const int support_simple_spinner_dropdown_item = 2131427460;
+			public const int select_dialog_singlechoice_material = 2131427460;
 			
 			// aapt resource value: 0x7F0B0085
-			public const int Tabbar = 2131427461;
+			public const int ShellContent = 2131427461;
 			
 			// aapt resource value: 0x7F0B0086
-			public const int test_action_chip = 2131427462;
+			public const int support_simple_spinner_dropdown_item = 2131427462;
 			
 			// aapt resource value: 0x7F0B0087
-			public const int test_chip_zero_corner_radius = 2131427463;
+			public const int Tabbar = 2131427463;
 			
 			// aapt resource value: 0x7F0B0088
-			public const int test_design_checkbox = 2131427464;
+			public const int test_action_chip = 2131427464;
 			
 			// aapt resource value: 0x7F0B0089
-			public const int test_design_radiobutton = 2131427465;
+			public const int test_chip_zero_corner_radius = 2131427465;
 			
 			// aapt resource value: 0x7F0B008A
-			public const int test_navigation_bar_item_layout = 2131427466;
+			public const int test_design_checkbox = 2131427466;
 			
 			// aapt resource value: 0x7F0B008B
-			public const int test_reflow_chipgroup = 2131427467;
+			public const int test_design_radiobutton = 2131427467;
 			
 			// aapt resource value: 0x7F0B008C
-			public const int test_toolbar = 2131427468;
+			public const int test_navigation_bar_item_layout = 2131427468;
 			
 			// aapt resource value: 0x7F0B008D
-			public const int test_toolbar_custom_background = 2131427469;
+			public const int test_reflow_chipgroup = 2131427469;
 			
 			// aapt resource value: 0x7F0B008E
-			public const int test_toolbar_elevation = 2131427470;
+			public const int test_toolbar = 2131427470;
 			
 			// aapt resource value: 0x7F0B008F
-			public const int test_toolbar_surface = 2131427471;
-			
-			// aapt resource value: 0x7F0B0094
-			public const int text_view_without_line_height = 2131427476;
+			public const int test_toolbar_custom_background = 2131427471;
 			
 			// aapt resource value: 0x7F0B0090
-			public const int text_view_with_line_height_from_appearance = 2131427472;
+			public const int test_toolbar_elevation = 2131427472;
 			
 			// aapt resource value: 0x7F0B0091
-			public const int text_view_with_line_height_from_layout = 2131427473;
+			public const int test_toolbar_surface = 2131427473;
+			
+			// aapt resource value: 0x7F0B0096
+			public const int text_view_without_line_height = 2131427478;
 			
 			// aapt resource value: 0x7F0B0092
-			public const int text_view_with_line_height_from_style = 2131427474;
+			public const int text_view_with_line_height_from_appearance = 2131427474;
 			
 			// aapt resource value: 0x7F0B0093
-			public const int text_view_with_theme_line_height = 2131427475;
+			public const int text_view_with_line_height_from_layout = 2131427475;
+			
+			// aapt resource value: 0x7F0B0094
+			public const int text_view_with_line_height_from_style = 2131427476;
 			
 			// aapt resource value: 0x7F0B0095
-			public const int Toolbar = 2131427477;
+			public const int text_view_with_theme_line_height = 2131427477;
+			
+			// aapt resource value: 0x7F0B0097
+			public const int Toolbar = 2131427479;
 			
 			static Layout()
 			{
