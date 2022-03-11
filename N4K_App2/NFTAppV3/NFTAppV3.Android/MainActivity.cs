@@ -35,7 +35,6 @@ namespace NFTAppV3.Droid
             // gestureDetector = new GestureDetector(this); // MWH - don't need to gesture recognizer
 
             txtGestureView.SetOnTouchListener(this);
-
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
@@ -155,7 +154,6 @@ namespace NFTAppV3.Droid
                             //onSwipeLeft();
                             txtGestureView.Text = "Swiped Left";
                         }
-
 
                         result = true;
                     }
